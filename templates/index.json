@@ -142,19 +142,6 @@
     "multi_column_3HbHNC": {
       "type": "multi-column",
       "blocks": {
-        "item_y8EUAR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Group_206.png",
-            "column_size": "3",
-            "title": "Sabrina B.",
-            "heading_tag": "h4",
-            "content": "<p>\"I just wanted a razor that worked, but this blew me away! I rarely shop online, yet I’m honestly stunned. Instant smoothness, and my skin stays flawless for days. Absolutely nailed it!\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_MJaUAQ": {
           "type": "item",
           "settings": {
@@ -163,6 +150,19 @@
             "title": "Laëticia C.",
             "heading_tag": "h4",
             "content": "<p>\"I’ve always had really sensitive skin in that area, plagued by ingrown hairs and nicks… but this is gentle, leaves my skin smooth, and causes absolutely no reaction.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_y8EUAR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_206.png",
+            "column_size": "3",
+            "title": "Sabrina B.",
+            "heading_tag": "h4",
+            "content": "<p>\"I just wanted a razor that worked, but this blew me away! I rarely shop online, yet I’m honestly stunned. Instant smoothness, and my skin stays flawless for days. Absolutely nailed it!\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -209,8 +209,8 @@
         }
       },
       "block_order": [
-        "item_y8EUAR",
         "item_MJaUAQ",
+        "item_y8EUAR",
         "item_AbdMYH",
         "item_cQkTGU",
         "item_fh7K44"
