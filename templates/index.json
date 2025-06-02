@@ -1,1 +1,524 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-1":{"type":"image","settings":{"content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"Tell your story","title":"Slide title","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30,"background":"","background_gradient":""}},"slide-2":{"type":"image","settings":{"content_max_width":780,"mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","subheading":"Tell your story","title":"Slide title","heading_tag":"h0","button_text":"","button_link":"","text_color":"#ffffff","button_background":"#ffffff","button_text_color":"#000000","overlay_color":"#000000","overlay_opacity":30,"background":"","background_gradient":""}}},"block_order":["slide-1","slide-2"],"settings":{"full_width":true,"allow_transparent_header":true,"image_size":"auto","controls_type":"numbers","transition_type":"fade_with_text","autoplay":true,"cycle_speed":6,"background":"#F2F2F2","background_gradient":"linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"}},"image-link-blocks":{"type":"image-link-blocks","blocks":{"1664424046b00c932c-0":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"1664424046b00c932c-1":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"1664424046b00c932c-2":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"1664424046b00c932c-3":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"e4a0ef18-1856-4ddd-83d8-871a60d7acac":{"type":"item","settings":{"stretch_image":true,"link_text":"","link_url":"","background":"","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["1664424046b00c932c-0","1664424046b00c932c-1","1664424046b00c932c-2","1664424046b00c932c-3","e4a0ef18-1856-4ddd-83d8-871a60d7acac"],"settings":{"full_width":false,"block_size":"medium","subheading":"","title":"","content":"","link_url":"","link_text":"","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"scrolling-text":{"type":"scrolling-text","settings":{"full_width":true,"text":"Promotion text","text_size":"large","text_style":"fill","scrolling_mode":"auto","scrolling_speed":5,"background":"","background_gradient":"","text_color":"","text_gradient":""}},"collection-list":{"type":"collection-list","blocks":{"collection-1":{"type":"collection","settings":{"collection":"","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"collection-2":{"type":"collection","settings":{"collection":"","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"collection-3":{"type":"collection","settings":{"collection":"","subheading":"","title":"","url":"","heading_tag":"h2","text_position":"place-self-center text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}}},"block_order":["collection-1","collection-2","collection-3"],"settings":{"full_width":true,"stack_collections":false,"collections_per_row":3,"show_progress_bar":false,"subheading":"","title":"Collection list","content":"","link_url":"","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":""}},"featured-collection":{"type":"featured-collection","settings":{"collection":"","products":[],"full_width":true,"stack_products":false,"show_progress_bar":false,"products_count":6,"products_per_row_mobile":"2","products_per_row_desktop":4,"subheading":"","title":"Featured collection","content":"","link_url":"","link_text":"View all","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","product_card_background":"","product_card_text_color":""}},"impact-text":{"type":"impact-text","blocks":{"1664424181b38582d5-0":{"type":"item","settings":{"title":"100%","subheading":"Showcase a benefit of your product","content":"","button_text":"","button_url":"","animate_impact_text":false,"animate_impact_text_duration":2}}},"block_order":["1664424181b38582d5-0"],"settings":{"full_width":true,"stack_mobile":true,"text_alignment":"center","impact_text_style":"fill","text_divider":"none","impact_text_size_ratio":1,"background":"","background_gradient":"","heading_text_color":"","heading_gradient":"linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)","text_color":"","button_background":"","button_text_color":""}},"image-with-text-overlay":{"type":"image-with-text-overlay","blocks":{"1664424230c4756b0e-0":{"type":"subheading","settings":{"text":"Subheading"}},"1664424230c4756b0e-1":{"type":"heading","settings":{"text":"Image with text overlay","heading_tag":"h1"}},"1664424230c4756b0e-2":{"type":"richtext","settings":{"content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"}}},"block_order":["1664424230c4756b0e-0","1664424230c4756b0e-1","1664424230c4756b0e-2"],"settings":{"full_width":true,"allow_transparent_header":false,"enable_parallax":false,"image_size":"auto","mobile_text_position":"place-self-center text-center","desktop_text_position":"sm:place-self-center sm:text-center","text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":30}},"media-grid":{"type":"media-grid","blocks":{"item-1":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":2,"desktop_row_span":2,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item-2":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":1,"desktop_row_span":1,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"item-3":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":1,"desktop_row_span":1,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}},"29246d34-c6e0-4373-84f6-b15e57736a00":{"type":"image","settings":{"title":"Promote your products","heading_tag":"h4","link_url":"","link_text":"","mobile_text_position":"place-self-center text-center","desktop_column_span":2,"desktop_row_span":1,"desktop_text_position":"sm:place-self-center sm:text-center","background":"#000000","background_gradient":"","text_color":"#ffffff","text_gradient":"","button_background":"#000000","button_text_color":"#ffffff","overlay_color":"#000000","overlay_opacity":0}}},"block_order":["item-1","item-2","item-3","29246d34-c6e0-4373-84f6-b15e57736a00"],"settings":{"full_width":true,"reduce_width":false,"desktop_row_height":290,"background":"","background_gradient":""}},"before-after-image":{"type":"before-after-image","settings":{"full_width":true,"subheading":"","title":"Before\/after","content":"<p>Showcase your product benefit by using before\/after image comparison.<\/p>","expand_image":false,"text_position":"center","before_after_text_position":"bottom","before_text":"Before","after_text":"After","drag_initial_position":50,"background":"","background_gradient":"","text_color":"","before_text_color":"#ffffff","after_text_color":"#ffffff"}},"press":{"type":"press","blocks":{"16644243327ba53d2a-0":{"type":"quote","settings":{"logo_width":100,"author":"","content":"Share info about what your customers say about your products.","show_rating":false,"rating":4}},"16644243327ba53d2a-1":{"type":"quote","settings":{"logo_width":100,"author":"","content":"Or share content about your promotion, offers...","show_rating":false,"rating":4}}},"block_order":["16644243327ba53d2a-0","16644243327ba53d2a-1"],"settings":{"full_width":true,"content_size":"medium","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","logo_item_background":"","logo_item_border":""}},"hot-spots":{"type":"hot-spots","blocks":{"1664424434f5b7d0e0-0":{"type":"item","settings":{"horizontal_position":24,"vertical_position":70,"horizontal_position_mobile":24,"vertical_position_mobile":70,"icon_width":32,"title":"Feature name","content":"<p>Share useful information about your product features.<\/p>"}},"1664424434f5b7d0e0-1":{"type":"item","settings":{"horizontal_position":62,"vertical_position":14,"horizontal_position_mobile":62,"vertical_position_mobile":14,"icon_width":32,"title":"Feature name","content":"<p>Share useful information about your product features.<\/p>"}},"1664424434f5b7d0e0-2":{"type":"item","settings":{"horizontal_position":83,"vertical_position":75,"horizontal_position_mobile":83,"vertical_position_mobile":75,"icon_width":32,"title":"Feature name","content":"<p>Share useful information about your product features.<\/p>"}}},"block_order":["1664424434f5b7d0e0-0","1664424434f5b7d0e0-1","1664424434f5b7d0e0-2"],"settings":{"full_width":true,"title":"","content":"","button_text":"","button_url":"","desktop_text_position":"place-self-start text-start","image_background":"","image_background_gradient":"","overlay_color":"#000000","overlay_opacity":0,"overlay_text_color":"#ffffff","overlay_button_background":"","overlay_button_text_color":"","hot_spot_dot_background":"#ffffff","hot_spot_dot_text_color":"#000000","hot_spot_content_background":"#ffffff","hot_spot_content_text_color":"#000000","hot_spot_content_opacity":90,"hot_spot_content_blur_radius":3}},"multiple-images-with-text":{"type":"multiple-images-with-text","blocks":{"1664424486a2b084ab-0":{"type":"item","settings":{"image_rotation_degrees":-2,"subheading":"","title":"Heading 1","content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","button_url":"","button_text":""}},"1664424486a2b084ab-1":{"type":"item","settings":{"image_rotation_degrees":1.5,"subheading":"","title":"Heading 2","content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","button_url":"","button_text":""}}},"block_order":["1664424486a2b084ab-0","1664424486a2b084ab-1"],"settings":{"full_width":true,"images_layout":"scattered","collage_images_alignment":"middle","background":"","background_gradient":"","text_color":"","button_background":"","button_text_color":""}},"featured-product":{"type":"featured-product","blocks":{"vendor":{"type":"vendor","settings":{}},"title":{"type":"title","settings":{"heading_tag":"h2"}},"badges":{"type":"badges","settings":{}},"price":{"type":"price","settings":{"show_taxes_notice":false}},"rating":{"type":"rating","settings":{"show_empty":false}},"separator":{"type":"separator","settings":{}},"description":{"type":"description","settings":{"collapse_content":false}},"variant-picker":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"stack_blocks":true,"selector_style":"block","swatch_selector_style":"color","size_chart_page":""}},"quantity-selector":{"type":"quantity_selector","settings":{}},"buy-buttons":{"type":"buy_buttons","settings":{"show_payment_button":true,"atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}}},"block_order":["vendor","title","badges","price","rating","separator","description","variant-picker","quantity-selector","buy-buttons"],"settings":{"full_width":false,"product":"","desktop_media_width":55,"desktop_media_layout":"carousel_thumbnails_left","mobile_media_size":"expanded","mobile_carousel_control":"floating_dots","enable_video_autoplay":true,"enable_video_looping":false,"enable_image_zoom":true,"max_image_zoom_level":3,"background":"#ffffff","background_gradient":"","text_color":"","input_background":"rgba(0,0,0,0)","input_text_color":""}},"faq":{"type":"faq","blocks":{"166442457738b23caf-0":{"type":"item","settings":{"title":"Do you ship overseas?","content":"<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"}},"166442457738b23caf-1":{"type":"item","settings":{"title":"How long will it take to get my orders?","content":"<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"}},"166442457738b23caf-2":{"type":"item","settings":{"title":"Any question?","content":"<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"}}},"block_order":["166442457738b23caf-0","166442457738b23caf-1","166442457738b23caf-2"],"settings":{"full_width":false,"subheading":"","title":"FAQ","content":"<p>Use this text to share information about your product or shipping policies.<\/p>","team_avatar_width":160,"support_hours":"Our customer support is available Monday to Friday: 8am-8:30pm.","answer_time":"Average answer time: 24h","button_text":"","button_url":"","text_position":"start","background":"#ffffff","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","button_background":"","button_text_color":"","accordion_background":"","accordion_text_color":""}}},"order":["slideshow","image-link-blocks","scrolling-text","collection-list","featured-collection","impact-text","image-with-text-overlay","media-grid","before-after-image","press","hot-spots","multiple-images-with-text","featured-product","faq"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_pfMxMw": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/incroyable.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_QrRKFx": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<section class=\"shopify-section shopify-section--custom-liquid\" style=\"margin-bottom: 48px; width: 100%;\">\n  <style>\n    .custom-section {\n      /* Fond et couleur hérités du thème */\n      padding-top: 24px;\n      padding-bottom: 4px;\n      font-family: 'Poppins', sans-serif;\n      text-align: center;\n      width: 100%;\n      max-width: 100%;\n      margin: 0 auto;\n      border-radius: 10px;\n    }\n\n    .custom-section .header {\n      font-size: 14px;\n      /* Hérite de la couleur texte du thème */\n      font-weight: bold;\n      text-transform: uppercase;\n      margin-bottom: 4px;\n    }\n\n    .custom-section .title {\n      font-size: 24px;\n      font-weight: 700;\n      line-height: 1.3;\n      margin-bottom: 10px;\n    }\n\n    .custom-section .description {\n      font-size: 16px;\n      font-weight: 500;\n      line-height: 1.5;\n    }\n  </style>\n\n  <div class=\"custom-section\">\n    <div class=\"title\">Finally, a shave that’s gentle on your skin !</div>\n    <div class=\"description\">\nPainful waxing and laser treatments that break the bank have finally come to an end.    </div>\n  </div>\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "logo_list_TBFJtJ": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_9Bx7hd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_dfd419f5-2c5c-4bf1-9482-f98af4b502b5.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_DYiWCr": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_QiLLWf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_nztcNA": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/stylistmag.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_9Bx7hd",
+        "logo_DYiWCr",
+        "logo_QiLLWf",
+        "logo_nztcNA"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "As featured in",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "custom_liquid_Jfe7bc": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"custom-features-section\" style=\"background-color:#FFFFFF; text-align: center; padding-bottom: 24px;\">\n  \n  <!-- Titre -->\n  <h3 style=\"font-size: 22px; font-weight: 800;\">\n    Why choose Lunia ?\n  </h3>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_edirNi": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/lesavantages_be568144-6274-4471-bc41-6dfcd4acac57.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "custom_liquid_jpreN9": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"trustpilot-clean\">\n  <h2>They've agreed to share their experience with you</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.8 / 5</strong>\n    <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 stars\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>based on <strong>over 1,800</strong> reviews</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n\n.rating-score {\n  font-weight: bold;\n}\n\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_3HbHNC": {
+      "type": "multi-column",
+      "blocks": {
+        "item_y8EUAR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_206.png",
+            "column_size": "3",
+            "title": "Sabrina B.",
+            "heading_tag": "h4",
+            "content": "<p>\"I just wanted a razor that worked, but this blew me away! I rarely shop online, yet I’m honestly stunned. Instant smoothness, and my skin stays flawless for days. Absolutely nailed it!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_MJaUAQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_193.png",
+            "column_size": "3",
+            "title": "Laëticia C.",
+            "heading_tag": "h4",
+            "content": "<p>\"I’ve always had really sensitive skin in that area, plagued by ingrown hairs and nicks… but this is gentle, leaves my skin smooth, and causes absolutely no reaction.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AbdMYH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_197.png",
+            "column_size": "3",
+            "title": "Carole Q.",
+            "heading_tag": "h4",
+            "content": "<p>“I thought laser was my only option, but thanks to this 2-in-1 razor, my skin is finally even and radiant – and the shave is completely pain-free!”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cQkTGU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_205.png",
+            "column_size": "3",
+            "title": "Julie M.",
+            "heading_tag": "h4",
+            "content": "<p>“Honestly, waxing was a nightmare… I’d come out feeling like I was on fire every time. With this razor from Lunia, it’s the exact opposite: quick, comfortable and effective. And the results last far longer than I expected, especially when I use their exfoliating glove beforehand. Highly recommend!”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fh7K44": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_207.png",
+            "column_size": "3",
+            "title": "Sylvie A.",
+            "heading_tag": "h4",
+            "content": "<p>“No need to go over it a dozen times—one back-and-forth and you’re done. I only wish I’d discovered this sooner!”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_y8EUAR",
+        "item_MJaUAQ",
+        "item_AbdMYH",
+        "item_cQkTGU",
+        "item_fh7K44"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_Lj6Uca": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_JTAzxz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_KmGWH6\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <a href=\"#shopify-section-template--24726736666958__custom_liquid_8QMgbq\" style=\"text-decoration: none;\">\n      <div style=\"display: flex; align-items: center; border-radius: 8px; font-family: 'Poppins', sans-serif; width: fit-content; margin: 10px 0; text-align: left;\">\n        <!-- Étoiles -->\n        <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 étoiles\" style=\"width: 100px; margin-right: 10px;\">\n        <!-- Texte -->\n        <div style=\"color: #000000; font-size: 14px; font-weight: 500;\">\n          <span style=\"font-weight: 700;\">4.8/5</span> out of <span style=\"font-weight: 700;\">1832 verified reviews&nbsp;</span>\n        </div>\n      </div>\n    </a>\n  </div>\n</div>"
+          }
+        },
+        "liquid_aK9Uim": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .lunia-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 32px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"lunia-offre--flush\">\n  Lunia® Razor + Free Exfoliating Glove\n</p>"
+          }
+        },
+        "separator_X6ReUH": {
+          "type": "separator",
+          "settings": {}
+        },
+        "price_nDhBxz": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_RRCgTd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Stock available: 4 Razors</div>\n</div>\n            </div></div>"
+          }
+        },
+        "buy_buttons_aqmFWz": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#47b700",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_4iWCJ3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.icon-list-custom {\n    display: flex;\n    flex-wrap: wrap;\n    list-style: none;\n    justify-content: center;\n    margin: 0;\n    gap: 8px;\n    padding: 0;\n    margin-top: -0.5rem;\n    margin-bottom: -0.5rem;\n}\n</style>\n\n<ul class=\"icon-list-custom\" role=\"list\">\n    {% assign enabled_payment_types = 'visa,master,cartes_bancaires, american_express,shopify_pay, paypal,apple_pay' | remove: ' ' | split: ',' %}\n    {% for type in enabled_payment_types %}\n        <li>{{ type | payment_type_svg_tag: class: 'icon-svg' }}</li>\n    {%- endfor -%}\n</ul>"
+          }
+        },
+        "liquid_3RzkHk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"delivery-message\"\n     style=\"display: block; text-align: center; margin-top: -20px !important; font-size: 13px;\"\n     bis_skin_checked=\"1\">\n  ✔ 30-day money-back guarantee\n</div>"
+          }
+        },
+        "liquid_L7Lx37": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-form__custom-liquid\"><div style=\"background-color: #ffeeee; border: 1px solid #FEC6C5; padding: 10px; margin-top: 0px; border-radius: 8px; text-align: center;\">\n    <h3 style=\"font-size: 16px; color: #B81D24; margin-bottom: 8px;\">\n        Limited Stock – Spring Sale !\n    </h3>\n    <p style=\"font-size: 13px; color: #444; line-height: 1.4; margin: 0;\">\n        Don't miss out! These are our largest discounts of the year, and supplies are running low. Once this stock is gone, it may take time to restock. Secure yours now while they last!\n\n    </p>\n</div></div>"
+          }
+        },
+        "liquid_DHzzY3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"video-carousel-container\">\n  <h2 class=\"carousel-heading\">YOU + LUNIA </h2>\n  <div class=\"video-carousel\">\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/c022926cca0f47c995f443c6f0ec3077.mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/0ea4091c2041419d81dcfcc5e1cc998c.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/be00b39ba6034b088b201f918110b373.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>    \n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/b60c6875d6c94e428c9c9cb2bf3e585c.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n  .video-carousel-container {\n    margin: 20px 0;\n    max-width: 600px;\n    letter-spacing: -0.3px;\n    text-align: center;\n  }\n\n  .carousel-heading {\n    font-size: 18px;\n    margin-bottom: 16px;\n    font-weight: 500;\n    letter-spacing: -0.3px;\n    text-align: center;\n  }\n\n  .video-carousel {\n    display: flex;\n    gap: 10px;\n    overflow-x: auto;\n    padding-bottom: 8px;\n    scrollbar-width: thin;\n    scrollbar-color: #C4C4C4 transparent;\n  }\n\n  .video-carousel::-webkit-scrollbar {\n    height: 4px;\n  }\n\n  .video-carousel::-webkit-scrollbar-track {\n    background: transparent;\n    border-radius: 3px;\n  }\n\n  .video-carousel::-webkit-scrollbar-thumb {\n    background: #C4C4C4;\n    border-radius: 2px;\n  }\n\n  .video-carousel::-webkit-scrollbar-thumb:hover {\n    background: #aaaaaa;\n  }\n\n  .video-item {\n    flex: 0 0 auto;\n    width: 132px;\n    position: relative;\n  }\n\n  .video-thumbnail {\n    position: relative;\n    border-radius: 6px;\n    overflow: hidden;\n    height: 235px;\n  }\n\n  .gradient-overlay {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 70px;\n    background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);\n    z-index: 2;\n    pointer-events: none;\n  }\n\n  .carousel-video {\n    width: 100%;\n    height: 100%;\n    display: block;\n    object-fit: cover;\n    background-color: #f0f0f0;\n  }\n\n  .play-button {\n    position: absolute;\n    bottom: 9px;\n    left: 9px;\n    z-index: 3;\n    background: none;\n    border: none;\n    padding: 0;\n    cursor: pointer;\n    transition: transform 0.1s ease;\n  }\n\n  .play-button:hover {\n    transform: scale(1.1);\n  }\n\n  .play-button:active {\n    transform: scale(0.95);\n  }\n\n  .play-button svg {\n    width: 24px;\n    height: 24px;\n    display: block;\n  }\n\n  @media screen and (max-width: 768px) {\n    .play-button svg {\n      width: 32px;\n      height: 32px;\n    }\n\n    .play-button {\n      bottom: 12px;\n      left: 12px;\n    }\n  }\n</style>\n\n<script>\n  document.addEventListener('DOMContentLoaded', function() {\n    const videoStates = new Map();\n\n    document.querySelectorAll('.carousel-video').forEach(video => {\n      video.addEventListener('loadeddata', function() {\n        if (video.currentTime === 0) {\n          video.currentTime = 0.1;\n        }\n      });\n\n      if (video.readyState === 0) {\n        video.load();\n      }\n    });\n\n    document.querySelectorAll('.video-item').forEach((item, index) => {\n      const video = item.querySelector('.carousel-video');\n      const playButton = item.querySelector('.play-button');\n      const thumbnail = item.querySelector('.video-thumbnail');\n\n      videoStates.set(video, { isPlaying: false, isProcessing: false });\n\n      function togglePlay(e) {\n        if (e) {\n          e.preventDefault();\n          e.stopPropagation();\n        }\n\n        const state = videoStates.get(video);\n\n        if (state.isProcessing) return;\n\n        state.isProcessing = true;\n\n        if (!state.isPlaying) {\n          document.querySelectorAll('.carousel-video').forEach(v => {\n            if (v !== video) {\n              const otherState = videoStates.get(v);\n              if (otherState && otherState.isPlaying) {\n                v.pause();\n                v.closest('.video-item').querySelector('.play-button').style.display = 'block';\n                otherState.isPlaying = false;\n              }\n            }\n          });\n\n          video.setAttribute('playsinline', '');\n\n          video.play().then(() => {\n            playButton.style.display = 'none';\n            state.isPlaying = true;\n          }).catch(error => {\n            setTimeout(() => {\n              video.play().then(() => {\n                playButton.style.display = 'none';\n                state.isPlaying = true;\n              }).catch(e => {\n                console.error(\"Video play error:\", e);\n              });\n            }, 100);\n          }).finally(() => {\n            state.isProcessing = false;\n          });\n        } else {\n          video.pause();\n          playButton.style.display = 'block';\n          state.isPlaying = false;\n          state.isProcessing = false;\n        }\n      }\n\n      playButton.addEventListener('click', togglePlay);\n\n      thumbnail.addEventListener('click', function(e) {\n        if (!e.target.closest('.play-button')) {\n          togglePlay(e);\n        }\n      });\n\n      video.addEventListener('ended', function() {\n        const state = videoStates.get(video);\n        playButton.style.display = 'block';\n        state.isPlaying = false;\n        video.currentTime = 0;\n      });\n    });\n\n    if (window.innerWidth > 768) {\n      document.addEventListener('mouseup', function(e) {\n      }, true);\n    }\n  });\n</script>"
+          }
+        },
+        "collapsible_text_Peg34C": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What is LUNIA?",
+            "content": "<p>Discover <strong>Lunia</strong>, the 2-in-1 razor that revolutionises your beauty routine.</p><p>With its dual-head design, it combines precision and gentleness for flawless skin wherever you are.</p><p><strong>Say goodbye to painful waxing, overpriced laser treatments</strong> and disposable blades that irritate—Lunia delivers all the comfort without the usual suffering.</p><p>Waterproof and USB-C rechargeable, it works just as well on dry or wet skin. Perfect for sensitive skin, it soothes irritation, banishes ingrown hairs and prevents nicks. </p><p>Wave farewell to hassle and hello to a quick, convenient, pain-free solution for soft, impeccable skin every day!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_W8xGjJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What’s included in the LUNIA pack?",
+            "content": "<p>The <strong>Lunia pack</strong> includes everything you need for a complete, convenient experience:<br/></p><ul><li><strong>Body trimming head:</strong>Designed to swiftly remove hair from larger areas.</li><li><strong>Precision head:</strong> Perfect for delicate zones and achieving a flawless finish.</li><li><strong>Included accessories:</strong></li></ul><p>Attachment comb</p><p>Charging cable</p><p>Cleaning brush</p><p>User manual</p><ul><li>Plus your complimentary exfoliating glove!</li></ul><p>An easy, precise treatment tailored to every area of your body!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_RerheQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Delivery & Returns",
+            "content": "<p><strong>Delivery regions: </strong>UK, United States, Canada and Australia only (English-speaking countries).</p><p><strong>Standard Delivery</strong><br/>Delivery timeframe: 5–7 working days.</p><p><strong>Important details:</strong></p><ul><li> 24–48 hours for verification, quality control and packaging</li><li>all times are estimates and may vary due to logistical factors or exceptional circumstances</li></ul><p><strong>Order tracking:</strong></p><ul><li><strong>Where to find it:</strong> track your order directly on our website</li><li><strong>Need your tracking number? </strong>Email us or submit a request via our contact form, and we’ll send it over promptly!</li></ul><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_7bMTqx": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Secure payment",
+            "content": "<p><strong>Accepted Payment Methods</strong></p><ul><li><strong>Bank cards:</strong> Visa, MasterCard, American Express</li><li><strong>PayPal, Apple Pay & Shop Pay: </strong>for fast, secure checkout</li></ul><p><strong>Security & Reliability</strong></p><ul><li><strong>Data encryption:</strong> All transactions are protected by 256-bit SSL encryption to keep your information safe</li><li><strong>Enhanced verification: </strong>Every purchase undergoes additional checks to prevent fraud</li></ul><p><strong>Any questions?</strong><br/><br/>Our customer service team is available 24/7 to help.<br/><br/><strong>Contact us at </strong><a><strong>contact@shop-lunia.com</strong></a></p><p><br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_xUmMU9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "30-day money-back guarantee",
+            "content": "<p><strong>30-day “Satisfaction guaranteed or your money back”</strong></p><p>If you’re not completely happy with your purchase, you may request a full refund within 30 days.</p><p><strong>Free replacement for manufacturing defects</strong></p><p>If the product is faulty, we’ll replace it at no extra cost.</p><p><strong>Dedicated support</strong></p><p>For any questions or issues, our customer service team is at your disposal by email or via our contact form.</p><p><strong>Returns</strong></p><p><strong>Return window:</strong>30 days from receipt<br/>You may return the product within 30 days, provided it’s in its original condition.</p><p><strong>Easy process</strong></p><p>Contact us by email or through our contact form, and we’ll guide you step by step.</p><p><strong>Packaging & condition</strong></p><p>The item must be in its original condition and, if possible, in its original packaging.</p><p><strong>Return shipping costs</strong></p><p>If the return is due to a defect or our error, we’ll cover the return postage. Otherwise, the customer may be responsible (see our Returns Policy).</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_JTAzxz",
+        "liquid_aK9Uim",
+        "separator_X6ReUH",
+        "price_nDhBxz",
+        "liquid_RRCgTd",
+        "buy_buttons_aqmFWz",
+        "liquid_4iWCJ3",
+        "liquid_3RzkHk",
+        "liquid_L7Lx37",
+        "liquid_DHzzY3",
+        "collapsible_text_Peg34C",
+        "collapsible_text_W8xGjJ",
+        "collapsible_text_RerheQ",
+        "collapsible_text_7bMTqx",
+        "collapsible_text_xUmMU9"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "lunia®-razor-free-exfoliating-glove",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "text_with_icons_jxQ7dK": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_anFUVr": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "Free delivery",
+            "content": "<p>Only available in the UK, United States, Canada, Australia and New Zealand.</p>"
+          }
+        },
+        "item_CBUK9f": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "Customer service available 7 days a week",
+            "content": "<p>For any enquiries, please write to us via our contact form or by email at <a>contact@shop-lunia.com</a>.</p>"
+          }
+        },
+        "item_nkiTXX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "30-day guarantee",
+            "content": "<p>Satisfaction guaranteed or your money back</p>"
+          }
+        },
+        "item_Rpqprb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "Secure payments",
+            "content": "<p>Pay securely via credit card or PayPal.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_anFUVr",
+        "item_CBUK9f",
+        "item_nkiTXX",
+        "item_Rpqprb"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_pfMxMw",
+    "custom_liquid_QrRKFx",
+    "logo_list_TBFJtJ",
+    "custom_liquid_Jfe7bc",
+    "image_with_text_overlay_edirNi",
+    "custom_liquid_jpreN9",
+    "multi_column_3HbHNC",
+    "featured_product_Lj6Uca",
+    "text_with_icons_jxQ7dK",
+    "faq"
+  ]
+}

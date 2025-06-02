@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -5,22 +14,50 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_UweX3z": {
+          "type": "message",
+          "settings": {
+            "text": "2 YEAR WARRANTY",
+            "url": ""
+          }
+        },
+        "message_hcE764": {
+          "type": "message",
+          "settings": {
+            "text": "30-DAY SATISFACTION GUARANTEE",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "30-DAY SATISFACTION GUARANTEE",
+            "url": ""
+          }
+        },
+        "message_Ci7PgM": {
+          "type": "message",
+          "settings": {
+            "text": "SPRING SPECIAL OFFER: UP TO 50% OFF",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_UweX3z",
+        "message_hcE764",
+        "message",
+        "message_Ci7PgM"
       ],
       "settings": {
         "enable_sticky": false,
+        "autoplay": false,
+        "cycle_speed": 6,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#fec6c5",
+        "background_gradient": "",
         "text_color": "#ffffff"
       }
     },
@@ -29,14 +66,18 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
+        "logo": "shopify://shop_images/LUNIA_logo_cropped.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
