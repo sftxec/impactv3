@@ -133,100 +133,382 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div class=\"trustpilot-clean\">\n  <h2>They've agreed to share their experience with you</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.8 / 5</strong>\n    <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 stars\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>based on <strong>over 1,800</strong> reviews</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n\n.rating-score {\n  font-weight: bold;\n}\n\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
+        "liquid": "<div class=\"trustpilot-clean\">\n  <h2>They've agreed to share their experience with you</h2>\n  <div class=\"trustpilot-line\">\n    <span class=\"rating-text\">Excellent</span>\n    <strong class=\"rating-score\">4.8 / 5</strong>\n    <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 stars\" class=\"stars-img\">\n  </div>\n  <div class=\"trustpilot-bottom\">\n    <span>based on <strong>over 1,800</strong> reviews</span>\n    <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/trustpilot-svg_klyne.webp?v=1743809609\" alt=\"Trustpilot\" class=\"tp-logo\" loading=\"lazy\">\n  </div>\n</div>\n\n<style>\n.trustpilot-clean {\n  text-align: center;\n  color: #000;\n  margin-bottom: 0 !important;\n  padding-bottom: 0 !important;\n}\n\n.trustpilot-clean h2 {\n  font-size: 22px;\n  font-weight: 700;\n  margin-bottom: 0.8rem;\n  line-height: 1.5;\n}\n\n.trustpilot-line {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 4px;\n  font-size: 1rem;\n  margin-bottom: 0.5rem;\n}\n\n.rating-text,\n.rating-score {\n  font-size: 1rem;\n  line-height: 1;\n  display: inline-block;\n  vertical-align: middle;\n  margin-top: 2px;\n}\n\n.rating-score {\n  font-weight: bold;\n}\n\n.stars-img {\n  width: 120px;\n  margin-right: 10px;\n  vertical-align: middle;\n}\n\n.trustpilot-bottom {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  font-size: 0.95rem;\n}\n\n.tp-logo {\n  height: 24px;\n  margin-top: -2px;\n}\n\n.trustpilot-badge-below {\n  margin-top: 12px;\n  text-align: center;\n  background-color: #fef9f5;\n  padding: 1.2rem 1rem;\n}\n\n.trustpilot-badge-below img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
       }
     },
-    "multi_column_3HbHNC": {
-      "type": "multi-column",
+    "testimonial_footer_eGDbaY": {
+      "type": "testimonial-footer",
       "blocks": {
-        "item_MJaUAQ": {
-          "type": "item",
+        "image_ezjPad": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Group_193.png",
-            "column_size": "3",
-            "title": "Laëticia C.",
-            "heading_tag": "h4",
-            "content": "<p>\"I’ve always had really sensitive skin in that area, plagued by ingrown hairs and nicks… but this is gentle, leaves my skin smooth, and causes absolutely no reaction.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "image": "shopify://shop_images/sil2.webp"
           }
         },
-        "item_y8EUAR": {
-          "type": "item",
+        "image_iJbRiV": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Group_206.png",
-            "column_size": "3",
-            "title": "Sabrina B.",
-            "heading_tag": "h4",
-            "content": "<p>\"I just wanted a razor that worked, but this blew me away! I rarely shop online, yet I’m honestly stunned. Instant smoothness, and my skin stays flawless for days. Absolutely nailed it!\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "image": "shopify://shop_images/App5.webp"
           }
         },
-        "item_AbdMYH": {
-          "type": "item",
+        "image_6VQD8G": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Group_197.png",
-            "column_size": "3",
-            "title": "Carole Q.",
-            "heading_tag": "h4",
-            "content": "<p>“I thought laser was my only option, but thanks to this 2-in-1 razor, my skin is finally even and radiant – and the shave is completely pain-free!”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "image": "shopify://shop_images/sil8.webp"
           }
         },
-        "item_cQkTGU": {
-          "type": "item",
+        "image_XmiEeY": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Group_205.png",
-            "column_size": "3",
-            "title": "Julie M.",
-            "heading_tag": "h4",
-            "content": "<p>“Honestly, waxing was a nightmare… I’d come out feeling like I was on fire every time. With this razor from Lunia, it’s the exact opposite: quick, comfortable and effective. And the results last far longer than I expected, especially when I use their exfoliating glove beforehand. Highly recommend!”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "image": "shopify://shop_images/App7.webp"
           }
         },
-        "item_fh7K44": {
-          "type": "item",
+        "image_mNBWWM": {
+          "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Group_207.png",
-            "column_size": "3",
-            "title": "Sylvie A.",
-            "heading_tag": "h4",
-            "content": "<p>“No need to go over it a dozen times—one back-and-forth and you’re done. I only wish I’d discovered this sooner!”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "image": "shopify://shop_images/1.webp"
+          }
+        },
+        "image_gtTLGt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/App9.webp"
+          }
+        },
+        "image_cxW9wY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/App3.webp"
+          }
+        },
+        "image_TJLVxc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/App8.webp"
+          }
+        },
+        "image_fMy9nY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/5.webp"
+          }
+        },
+        "image_BNYrK3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sil3.webp"
+          }
+        },
+        "image_bcXgJD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/sil6.webp"
+          }
+        },
+        "image_PkXfm6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/App11.webp"
+          }
+        },
+        "image_rXmzWN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/App12.webp"
+          }
+        },
+        "image_DgE6Aw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/App6.webp"
+          }
+        },
+        "image_6XWfdc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lisse4.jpg"
+          }
+        },
+        "image_nga38Y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/liss3.webp"
+          }
+        },
+        "testimonial_HPepgk": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I have sensitive skin and finally a razor that doesn’t irritate me – I actually enjoyed shaving, I highly recommend it.",
+            "author": "Julie M.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_Q9qrMt": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I’ve never landed such a great deal before—it was on sale, but that still counts!",
+            "author": "Chloe K.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_fwjjW6": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "I’m impressed! This razor has completely changed the way I shave.",
+            "author": "Ava A.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_T9nrr6": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "My hair is thick and coarse, but it manages to remove it all pain-free.",
+            "author": "Florence S.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_4rL6rr": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "The USB charger is a lifesaver  I needed one for my iPhone, haha but it’s a very good razor, I don’t suffer anymore after using it.",
+            "author": "Lina P.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_bUxFp7": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "It has become an essential part of my beauty routine, especially in the morning.",
+            "author": "Stephanie A.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_GVyCJm": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I thought the dual-sided head was just a gimmick, but it’s extremely effective.",
+            "author": "Chloe S",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_CyQQ7a": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "I 100% recommend it GO FOR IT GIRLS!!",
+            "author": "Mia V",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_dXkynV": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "My legs feel so smooth what is this magic?",
+            "author": "Alice M",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_U4bQbz": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "Even without foam, the glide is completely comfortable, with no redness.",
+            "author": "Isabella",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_XwaGpY": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "Well received—thanks for the little cleaning brush; it’s really handy.",
+            "author": "Grace A.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_RBreLq": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "It’s a far cry from the old razors at Tesco my skin feels so smooth, it’s amazing.",
+            "author": "Stephanie P",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_kx9YkA": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "It was a gift to myself, and I think it was well worth it.",
+            "author": "Chloe P.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_CeajXn": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "My legs stay smooth for days. it’s better than anything I’ve tried before.",
+            "author": "Lily",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_p9iJk8": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "It’s an incredible time-saver; I can shave in no time at all.",
+            "author": "Ella V.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_VdXVAW": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "First time I’ve shaved my bikini area without pain. I want to say FINALLY!",
+            "author": "Anissa S.",
+            "verified": "VERIFIED BUYER"
           }
         }
       },
       "block_order": [
-        "item_MJaUAQ",
-        "item_y8EUAR",
-        "item_AbdMYH",
-        "item_cQkTGU",
-        "item_fh7K44"
+        "image_ezjPad",
+        "image_iJbRiV",
+        "image_6VQD8G",
+        "image_XmiEeY",
+        "image_mNBWWM",
+        "image_gtTLGt",
+        "image_cxW9wY",
+        "image_TJLVxc",
+        "image_fMy9nY",
+        "image_BNYrK3",
+        "image_bcXgJD",
+        "image_PkXfm6",
+        "image_rXmzWN",
+        "image_DgE6Aw",
+        "image_6XWfdc",
+        "image_nga38Y",
+        "testimonial_HPepgk",
+        "testimonial_Q9qrMt",
+        "testimonial_fwjjW6",
+        "testimonial_T9nrr6",
+        "testimonial_4rL6rr",
+        "testimonial_bUxFp7",
+        "testimonial_GVyCJm",
+        "testimonial_CyQQ7a",
+        "testimonial_dXkynV",
+        "testimonial_U4bQbz",
+        "testimonial_XwaGpY",
+        "testimonial_RBreLq",
+        "testimonial_kx9YkA",
+        "testimonial_CeajXn",
+        "testimonial_p9iJk8",
+        "testimonial_VdXVAW"
       ],
-      "name": "Multi-column",
+      "name": "SS - Testimonials #7",
       "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
+        "hide_images": true,
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "poppins_n4",
+        "heading_size": 36,
+        "heading_size_mobile": 22,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "layout": "image_testimonial",
+        "layout_mobile": "image_testimonial",
+        "layout_gap": 24,
+        "layout_gap_mobile": 24,
+        "layout_mt": 36,
+        "image_row": "2",
+        "image_row_mobile": "1",
+        "image_gap": 12,
+        "image_gap_mobile": 12,
+        "image_radius": 8,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_style_mobile": "slider",
+        "testimonials_style_mobile": "slider",
+        "testimonials_row": "2",
+        "testimonials_row_mobile": "2",
+        "testimonials_gap": 12,
+        "testimonials_gap_mobile": 12,
+        "testimonial_padding_vertical": 12,
+        "testimonial_padding_horizontal": 12,
+        "testimonial_radius": 8,
+        "testimonial_border_thickness": 1,
+        "stars_size": 12,
+        "testimonial_text_custom": false,
+        "testimonial_text_font": "poppins_n4",
+        "testimonial_text_size": 14,
+        "testimonial_text_size_mobile": 12,
+        "testimonial_text_height": 150,
+        "testimonial_text_mt": 8,
+        "testimonial_author_custom": false,
+        "testimonial_author_font": "poppins_n4",
+        "testimonial_author_size": 14,
+        "testimonial_author_size_mobile": 14,
+        "testimonial_author_height": 150,
+        "testimonial_author_mt": 12,
+        "testimonial_verified_custom": false,
+        "testimonial_verified_font": "josefin_sans_n4",
+        "testimonial_verified_size": 10,
+        "testimonial_verified_size_mobile": 10,
+        "testimonial_verified_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_use_icon": true,
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 16,
+        "button_height": 100,
+        "button_align": "center",
+        "button_align_mobile": "center",
+        "button_mt": 24,
+        "button_padding_vertical": 16,
+        "button_padding_horizontal": 50,
+        "button_radius": 12,
+        "button_border_thickness": 0,
+        "heading_color": "#120A0A",
+        "background_color": "#ffffff",
         "background_gradient": "",
-        "text_color": ""
+        "border_color": "#000000",
+        "button_color": "#000000",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#fec6c5",
+        "button_bg_hover_color": "#fec6c5",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "image_border_color": "#000000",
+        "testimonial_bg_color": "#FFFFFF",
+        "testimonial_border_color": "#d9d9d9",
+        "stars_color": "#ffb74a",
+        "testimonial_text_color": "#000000",
+        "testimonial_author_color": "#000000",
+        "testimonial_verified_color": "#5c5c5c",
+        "testimonial_pagination_color": "#1d201d",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 24,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "content_width": 140,
+        "border_thickness": 0
       }
     },
     "featured_product_Lj6Uca": {
@@ -412,6 +694,96 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_3HbHNC": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MJaUAQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_193.png",
+            "column_size": "3",
+            "title": "Laëticia C.",
+            "heading_tag": "h4",
+            "content": "<p>\"I’ve always had really sensitive skin in that area, plagued by ingrown hairs and nicks… but this is gentle, leaves my skin smooth, and causes absolutely no reaction.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_y8EUAR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_206.png",
+            "column_size": "3",
+            "title": "Sabrina B.",
+            "heading_tag": "h4",
+            "content": "<p>\"I just wanted a razor that worked, but this blew me away! I rarely shop online, yet I’m honestly stunned. Instant smoothness, and my skin stays flawless for days. Absolutely nailed it!\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AbdMYH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_197.png",
+            "column_size": "3",
+            "title": "Carole Q.",
+            "heading_tag": "h4",
+            "content": "<p>“I thought laser was my only option, but thanks to this 2-in-1 razor, my skin is finally even and radiant – and the shave is completely pain-free!”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_cQkTGU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_205.png",
+            "column_size": "3",
+            "title": "Julie M.",
+            "heading_tag": "h4",
+            "content": "<p>“Honestly, waxing was a nightmare… I’d come out feeling like I was on fire every time. With this razor from Lunia, it’s the exact opposite: quick, comfortable and effective. And the results last far longer than I expected, especially when I use their exfoliating glove beforehand. Highly recommend!”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fh7K44": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_207.png",
+            "column_size": "3",
+            "title": "Sylvie A.",
+            "heading_tag": "h4",
+            "content": "<p>“No need to go over it a dozen times—one back-and-forth and you’re done. I only wish I’d discovered this sooner!”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MJaUAQ",
+        "item_y8EUAR",
+        "item_AbdMYH",
+        "item_cQkTGU",
+        "item_fh7K44"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "testimonials_gUqKBm": {
@@ -657,8 +1029,9 @@
     "custom_liquid_Jfe7bc",
     "image_with_text_overlay_edirNi",
     "custom_liquid_jpreN9",
-    "multi_column_3HbHNC",
+    "testimonial_footer_eGDbaY",
     "featured_product_Lj6Uca",
+    "multi_column_3HbHNC",
     "testimonials_gUqKBm",
     "faq",
     "text_with_icons_jxQ7dK"
