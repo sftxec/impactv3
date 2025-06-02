@@ -58,7 +58,7 @@
         "scrolling_speed": 10,
         "background": "#fec6c5",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "header": {
