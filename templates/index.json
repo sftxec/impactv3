@@ -299,12 +299,14 @@
         },
         "liquid_3RzkHk": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div id=\"delivery-message\"\n     style=\"display: block; text-align: center; margin-top: -20px !important; font-size: 13px;\"\n     bis_skin_checked=\"1\">\n  ✔ 30-day money-back guarantee\n</div>"
           }
         },
         "liquid_L7Lx37": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div class=\"product-form__custom-liquid\"><div style=\"background-color: #ffeeee; border: 1px solid #FEC6C5; padding: 10px; margin-top: 0px; border-radius: 8px; text-align: center;\">\n    <h3 style=\"font-size: 16px; color: #B81D24; margin-bottom: 8px;\">\n        Limited Stock – Spring Sale !\n    </h3>\n    <p style=\"font-size: 13px; color: #444; line-height: 1.4; margin: 0;\">\n        Don't miss out! These are our largest discounts of the year, and supplies are running low. Once this stock is gone, it may take time to restock. Secure yours now while they last!\n\n    </p>\n</div></div>"
           }
@@ -410,80 +412,6 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
-      }
-    },
-    "text_with_icons_jxQ7dK": {
-      "type": "text-with-icons",
-      "blocks": {
-        "item_anFUVr": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#fec6c5",
-            "icon_color": "#1d201d",
-            "title": "Free delivery",
-            "content": "<p>Only available in the UK, United States, Canada, Australia and New Zealand.</p>"
-          }
-        },
-        "item_CBUK9f": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-operator",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#fec6c5",
-            "icon_color": "#1d201d",
-            "title": "Customer service available 7 days a week",
-            "content": "<p>For any enquiries, please write to us via our contact form or by email at <a>contact@shop-lunia.com</a>.</p>"
-          }
-        },
-        "item_nkiTXX": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#fec6c5",
-            "icon_color": "#1d201d",
-            "title": "30-day guarantee",
-            "content": "<p>Satisfaction guaranteed or your money back</p>"
-          }
-        },
-        "item_Rpqprb": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 32,
-            "icon_width": 32,
-            "icon_background_type": "circle",
-            "icon_background": "#fec6c5",
-            "icon_color": "#1d201d",
-            "title": "Secure payments",
-            "content": "<p>Pay securely via credit card or PayPal.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_anFUVr",
-        "item_CBUK9f",
-        "item_nkiTXX",
-        "item_Rpqprb"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "title": "",
-        "heading_tag": "h6",
-        "text_alignment": "center",
-        "icon_spacing": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "testimonials_gUqKBm": {
@@ -645,6 +573,80 @@
         "button_text_color": "",
         "accordion_background": "#fec6c5",
         "accordion_text_color": ""
+      }
+    },
+    "text_with_icons_jxQ7dK": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_anFUVr": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "Free delivery",
+            "content": "<p>Only available in the UK, United States, Canada, Australia and New Zealand.</p>"
+          }
+        },
+        "item_CBUK9f": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "Customer service available 7 days a week",
+            "content": "<p>For any enquiries, please write to us via our contact form or by email at <a>contact@shop-lunia.com</a>.</p>"
+          }
+        },
+        "item_nkiTXX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "30-day guarantee",
+            "content": "<p>Satisfaction guaranteed or your money back</p>"
+          }
+        },
+        "item_Rpqprb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "mobile_icon_width": 32,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#fec6c5",
+            "icon_color": "#1d201d",
+            "title": "Secure payments",
+            "content": "<p>Pay securely via credit card or PayPal.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_anFUVr",
+        "item_CBUK9f",
+        "item_nkiTXX",
+        "item_Rpqprb"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h6",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
