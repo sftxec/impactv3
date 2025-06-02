@@ -244,6 +244,12 @@
             "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .lunia-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 32px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"lunia-offre--flush\">\n  Lunia® Razor + Free Exfoliating Glove\n</p>"
           }
         },
+        "liquid_RRCgTd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Stock available: 4 Razors</div>\n</div>\n            </div></div>"
+          }
+        },
         "separator_X6ReUH": {
           "type": "separator",
           "settings": {}
@@ -254,10 +260,10 @@
             "show_taxes_notice": false
           }
         },
-        "liquid_RRCgTd": {
-          "type": "liquid",
+        "gsc_countdown_timer_countdown_L9bdb7": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Stock available: 4 Razors</div>\n</div>\n            </div></div>"
+            "widget_id": "GSC-SMALL-CluRLkQRuspM"
           }
         },
         "buy_buttons_aqmFWz": {
@@ -349,9 +355,10 @@
       "block_order": [
         "liquid_JTAzxz",
         "liquid_aK9Uim",
+        "liquid_RRCgTd",
         "separator_X6ReUH",
         "price_nDhBxz",
-        "liquid_RRCgTd",
+        "gsc_countdown_timer_countdown_L9bdb7",
         "buy_buttons_aqmFWz",
         "liquid_4iWCJ3",
         "liquid_3RzkHk",
