@@ -477,47 +477,155 @@
         "text_color": ""
       }
     },
+    "testimonials_gUqKBm": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_EARqmQ": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_fiNPAU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_MyC98M": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_EARqmQ",
+        "testimonial_fiNPAU",
+        "testimonial_MyC98M"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Rated 4.8/5 from 1,832 reviews",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Is Lunia suitable for sensitive skin?",
+            "content": "<p>Yes, Lunia is specifically designed to be gentle on the skin, even in the most sensitive areas such as the bikini line or underarms. Thanks to its dual trimmer/razor head, it offers an irritation-free, redness-free experience.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Is it painful to use?",
+            "content": "<p>Not at all. Lunia is designed to cut hair without pulling or scraping. You’ll enjoy a comfortable experience while achieving smooth, nick-free skin.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Is it suitable for all areas of the body?",
+            "content": "<p>Yes, Lunia is versatile and suitable for use on legs, underarms, the bikini area, and even the face.</p>"
+          }
+        },
+        "item_DfBwGz": {
+          "type": "item",
+          "settings": {
+            "title": "Is there a risk of cuts or ingrown hairs?",
+            "content": "<p>Thanks to its innovative design, Lunia removes hair without direct contact with the skin, minimising the risk of cuts or ingrown hairs.</p>"
+          }
+        },
+        "item_aLaBLE": {
+          "type": "item",
+          "settings": {
+            "title": "Can I use Lunia in the shower?",
+            "content": "<p>Absolutely! Lunia is completely waterproof and perfect for use in water. Use it in the shower for a quick, convenient routine.</p>"
+          }
+        },
+        "item_awhbnA": {
+          "type": "item",
+          "settings": {
+            "title": "How do I clean Lunia after use?",
+            "content": "<p>After each use, rinse the heads under water. A small brush is included for more precise cleaning.</p>"
+          }
+        },
+        "item_UQWRjq": {
+          "type": "item",
+          "settings": {
+            "title": "Can I take Lunia with me when I travel?",
+            "content": "<p>Absolutely! Lunia easily slips into your suitcase… and we promise it won’t take up all the space in your toiletry bag!</p>"
+          }
+        },
+        "item_6nqfBQ": {
+          "type": "item",
+          "settings": {
+            "title": "How long does it take to recharge Lunia?",
+            "content": "<p>A full recharge takes approximately 30 to 45 minutes thanks to its fast-charging technology.</p>"
+          }
+        },
+        "item_7XMM7L": {
+          "type": "item",
+          "settings": {
+            "title": "What if I’m not satisfied?",
+            "content": "<p>We offer a ‘Satisfaction guaranteed or your money back’ guarantee for 30 days. If the product doesn’t meet your expectations, please contact our customer service.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_DfBwGz",
+        "item_aLaBLE",
+        "item_awhbnA",
+        "item_UQWRjq",
+        "item_6nqfBQ",
+        "item_7XMM7L"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Frequently Asked Questions",
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
@@ -525,7 +633,7 @@
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#fec6c5",
         "accordion_text_color": ""
       }
     }
@@ -540,6 +648,7 @@
     "multi_column_3HbHNC",
     "featured_product_Lj6Uca",
     "text_with_icons_jxQ7dK",
+    "testimonials_gUqKBm",
     "faq"
   ]
 }
