@@ -266,6 +266,14 @@
             "text": "<p>- Removes hair <strong>at the root</strong>, pain-free</p><p>- <strong>Prevents</strong> ingrown hairs and irritation</p><p>- <strong>Smooths</strong> and <strong>softens</strong> skin with the exfoliating glove to use before each shave </p><p>Don’t wait for your skin’s health to deteriorate over time. <strong>Act now</strong>.</p>"
           }
         },
+        "image_wJjyiE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_2_juin_2025_11_20_40.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "gsc_countdown_timer_countdown_L9bdb7": {
           "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
@@ -371,6 +379,7 @@
         "separator_X6ReUH",
         "price_nDhBxz",
         "text_qxWVME",
+        "image_wJjyiE",
         "gsc_countdown_timer_countdown_L9bdb7",
         "buy_buttons_aqmFWz",
         "liquid_4iWCJ3",
