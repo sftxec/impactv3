@@ -63,6 +63,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "a[href=\"/search\"] {display: none !important;}"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
