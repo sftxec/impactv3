@@ -10115,3 +10115,7 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   display: -webkit-box;
   overflow: hidden;
 }
+
+#shopify-section-header > sticky-header > header > div > details-modal {
+    display: none !important;
+}
