@@ -854,21 +854,21 @@
           "type": "item",
           "settings": {
             "title": "Is Lunia suitable for sensitive skin?",
-            "content": "<p>Yes, Lunia is specifically designed to be gentle on the skin, even in the most sensitive areas such as the bikini line or underarms. Thanks to its dual trimmer/razor head, it offers an irritation-free, redness-free experience.</p>"
+            "content": "<p>Yes. Lunia is engineered to be gentle on even the most sensitive areas—bikini line, underarms and face alike.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "Is it painful to use?",
-            "content": "<p>Not at all. Lunia is designed to cut hair without pulling or scraping. You’ll enjoy a comfortable experience while achieving smooth, nick-free skin.</p>"
+            "content": "<p>No, it’s virtually painless. Lunia removes hair without tugging or scraping.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Is it suitable for all areas of the body?",
-            "content": "<p>Yes, Lunia is versatile and suitable for use on legs, underarms, the bikini area, and even the face.</p>"
+            "title": "Can I use Lunia on all parts of my body?",
+            "content": "<p>Absolutely. It’s perfect for legs, underarms, bikini line, and even delicate facial areas.</p>"
           }
         },
         "item_DfBwGz": {
@@ -881,8 +881,8 @@
         "item_aLaBLE": {
           "type": "item",
           "settings": {
-            "title": "Can I use Lunia in the shower?",
-            "content": "<p>Absolutely! Lunia is completely waterproof and perfect for use in water. Use it in the shower for a quick, convenient routine.</p>"
+            "title": "Does Lunia work in the shower?",
+            "content": "<p>Yes—Lunia is fully waterproof and ideal for wet or dry use.</p>"
           }
         },
         "item_awhbnA": {
@@ -902,15 +902,15 @@
         "item_6nqfBQ": {
           "type": "item",
           "settings": {
-            "title": "How long does it take to recharge Lunia?",
-            "content": "<p>A full recharge takes approximately 30 to 45 minutes thanks to its fast-charging technology.</p>"
+            "title": "How long does USB-C recharging take?",
+            "content": "<p>A full charge takes around 30–45 minutes thanks to fast-charge technology.</p>"
           }
         },
         "item_7XMM7L": {
           "type": "item",
           "settings": {
-            "title": "What if I’m not satisfied?",
-            "content": "<p>We offer a ‘Satisfaction guaranteed or your money back’ guarantee for 30 days. If the product doesn’t meet your expectations, please contact our customer service.</p>"
+            "title": "What if I’m not happy with my purchase?",
+            "content": "<p>We offer a 30-day no-quibble returns policy—simply get in touch, and we’ll arrange a full refund.<br/></p>"
           }
         }
       },
