@@ -608,7 +608,7 @@
         "text_VBMBdg": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Need help or have a question about the shaver?</strong><br/><br/>Contact our advisor Lina by message at</p><p>+44 7447 303701.</p><p><strong>Lina’s availability:</strong><br/><br/>Monday–Friday: 9:00 am–6:00 pm GMT<br/><br/>Saturday: 10:00 am–4:00 pm GMT<br/><br/>Sunday: Closed</p>"
+            "text": "<p><strong>Need help or have a question about the shaver?</strong><br/>Contact our advisor Lina by message at</p><p>+44 7447 303701.</p><p></p><p><strong>Lina’s availability:</strong><br/>Monday–Friday: 9:00 am–6:00 pm GMT<br/><br/>Saturday: 10:00 am–4:00 pm GMT<br/><br/>Sunday: Closed</p>"
           }
         },
         "collapsible_text_Peg34C": {
