@@ -21,25 +21,25 @@
             "url": ""
           }
         },
-        "message_Ci7PgM": {
-          "type": "message",
-          "settings": {
-            "text": "Email us at contact@shop-lunia.com",
-            "url": ""
-          }
-        },
         "message": {
           "type": "message",
           "settings": {
             "text": "30-Day Satisfaction Guarantee",
             "url": ""
           }
+        },
+        "message_Ci7PgM": {
+          "type": "message",
+          "settings": {
+            "text": "Email us at contact@shop-lunia.com",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_hcE764",
-        "message_Ci7PgM",
-        "message"
+        "message",
+        "message_Ci7PgM"
       ],
       "settings": {
         "enable_sticky": true,
