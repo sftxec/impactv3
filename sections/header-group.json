@@ -14,47 +14,39 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_UweX3z": {
-          "type": "message",
-          "settings": {
-            "text": "2 YEAR WARRANTY",
-            "url": ""
-          }
-        },
         "message_hcE764": {
           "type": "message",
           "settings": {
-            "text": "30-DAY SATISFACTION GUARANTEE",
-            "url": ""
-          }
-        },
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "30-DAY SATISFACTION GUARANTEE",
+            "text": "Questions? message us at +44 7447 303701",
             "url": ""
           }
         },
         "message_Ci7PgM": {
           "type": "message",
           "settings": {
-            "text": "SPRING SPECIAL OFFER: UP TO 50% OFF",
+            "text": "Email us at contact@shop-lunia.com",
+            "url": ""
+          }
+        },
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "30-Day Satisfaction Guarantee",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_UweX3z",
         "message_hcE764",
-        "message",
-        "message_Ci7PgM"
+        "message_Ci7PgM",
+        "message"
       ],
       "settings": {
-        "enable_sticky": false,
+        "enable_sticky": true,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
         "background": "#fec6c5",
         "background_gradient": "",
