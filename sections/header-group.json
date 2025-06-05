@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_eaGjmg": {
+          "type": "message",
+          "settings": {
+            "text": "Free delivery on all UK orders",
+            "url": ""
+          }
+        },
         "message_hcE764": {
           "type": "message",
           "settings": {
@@ -37,6 +44,7 @@
         }
       },
       "block_order": [
+        "message_eaGjmg",
         "message_hcE764",
         "message",
         "message_Ci7PgM"
