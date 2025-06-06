@@ -242,8 +242,17 @@
           "type": "testimonial",
           "settings": {
             "rating": 5,
-            "text": "I have sensitive skin and finally a razor that doesn’t irritate me – I actually enjoyed shaving, I highly recommend it.",
+            "text": "I have sensitive skin and finally a shaver that doesn’t irritate me – I actually enjoyed shaving, I  recommend it.",
             "author": "Julie M.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
+        "testimonial_fwjjW6": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 4.5,
+            "text": "I’m impressed! This shaver has completely changed the way I shave. And a huge thanks to Lina. Her advice was spot on and made all the difference!",
+            "author": "Ava A.",
             "verified": "VERIFIED BUYER"
           }
         },
@@ -253,15 +262,6 @@
             "rating": 5,
             "text": "I’ve never landed such a great deal before—it was on sale, but that still counts!",
             "author": "Chloe K.",
-            "verified": "VERIFIED BUYER"
-          }
-        },
-        "testimonial_fwjjW6": {
-          "type": "testimonial",
-          "settings": {
-            "rating": 4.5,
-            "text": "I’m impressed! This razor has completely changed the way I shave.",
-            "author": "Ava A.",
             "verified": "VERIFIED BUYER"
           }
         },
@@ -401,8 +401,8 @@
         "image_6XWfdc",
         "image_nga38Y",
         "testimonial_HPepgk",
-        "testimonial_Q9qrMt",
         "testimonial_fwjjW6",
+        "testimonial_Q9qrMt",
         "testimonial_T9nrr6",
         "testimonial_4rL6rr",
         "testimonial_bUxFp7",
