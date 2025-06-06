@@ -256,6 +256,15 @@
             "verified": "VERIFIED BUYER"
           }
         },
+        "testimonial_PBqmYB": {
+          "type": "testimonial",
+          "settings": {
+            "rating": 5,
+            "text": "I can shave my legs in literally 3 minutes before work. It fits perfectly into my morning routine",
+            "author": "Anna V.",
+            "verified": "VERIFIED BUYER"
+          }
+        },
         "testimonial_Q9qrMt": {
           "type": "testimonial",
           "settings": {
@@ -402,6 +411,7 @@
         "image_nga38Y",
         "testimonial_HPepgk",
         "testimonial_fwjjW6",
+        "testimonial_PBqmYB",
         "testimonial_Q9qrMt",
         "testimonial_T9nrr6",
         "testimonial_4rL6rr",
