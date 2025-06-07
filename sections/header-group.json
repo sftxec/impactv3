@@ -14,38 +14,38 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_eaGjmg": {
-          "type": "message",
-          "settings": {
-            "text": "Free delivery on all UK orders",
-            "url": ""
-          }
-        },
         "message_hcE764": {
           "type": "message",
           "settings": {
-            "text": "Questions? message us at +44 7447 303701",
+            "text": "SUMMER’S HERE! 50% OFF – LIMITED STOCK",
+            "url": ""
+          }
+        },
+        "message_eaGjmg": {
+          "type": "message",
+          "settings": {
+            "text": "FREE DELIVERY ON ALL UK",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "30-Day Satisfaction Guarantee",
+            "text": "SATISFACTION GUARANTEED OR YOUR MONEY BACK",
             "url": ""
           }
         },
         "message_Ci7PgM": {
           "type": "message",
           "settings": {
-            "text": "2 Year Warranty",
+            "text": "2-YEAR WARRANTY",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_eaGjmg",
         "message_hcE764",
+        "message_eaGjmg",
         "message",
         "message_Ci7PgM"
       ],
@@ -54,7 +54,7 @@
         "autoplay": true,
         "cycle_speed": 4,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#fec6c5",
         "background_gradient": "",
