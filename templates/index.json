@@ -305,6 +305,191 @@
         "text_color": ""
       }
     },
+    "featured_product_Lj6Uca": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_aK9Uim": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .lunia-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 24px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"lunia-offre--flush\">\n  Lunia® Shaver + Free Exfoliating Glove\n</p>"
+          }
+        },
+        "liquid_JTAzxz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_KmGWH6\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <a href=\"#shopify-section-template--24726736666958__custom_liquid_8QMgbq\" style=\"text-decoration: none;\">\n      <div style=\"display: flex; align-items: center; border-radius: 8px; font-family: 'Poppins', sans-serif; width: fit-content; margin: 10px 0; text-align: left;\">\n        <!-- Étoiles -->\n        <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 étoiles\" style=\"width: 100px; margin-right: 10px;\">\n        <!-- Texte -->\n        <div style=\"color: #000000; font-size: 14px; font-weight: 500;\">\n          <span style=\"font-weight: 700;\">4.8/5</span> out of <span style=\"font-weight: 700;\">1832 verified reviews&nbsp;</span>\n        </div>\n      </div>\n    </a>\n  </div>\n</div>"
+          }
+        },
+        "liquid_RRCgTd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Less than 10 left in stock</div>\n</div>\n            </div></div>"
+          }
+        },
+        "separator_X6ReUH": {
+          "type": "separator",
+          "settings": {}
+        },
+        "price_nDhBxz": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "text_qxWVME": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- Removes hair pain-free at the root</p><p>- Helps <strong>prevent</strong> ingrown hairs and irritation</p><p>- Suitable for use on <strong>all areas</strong> of the body</p><p>- <strong>Smooths</strong> and <strong>softens</strong> skin (use the glove before each shave)</p><p>Treat your skin well, <strong>shop now</strong></p>"
+          }
+        },
+        "image_wJjyiE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_21_03_23.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "gsc_countdown_timer_countdown_L9bdb7": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-SMALL-CluRLkQRuspM"
+          }
+        },
+        "buy_buttons_aqmFWz": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#47b700",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_4iWCJ3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.icon-list-custom {\n    display: flex;\n    flex-wrap: wrap;\n    list-style: none;\n    justify-content: center;\n    margin: 0;\n    gap: 8px;\n    padding: 0;\n    margin-top: -0.5rem;\n    margin-bottom: -0.5rem;\n}\n</style>\n\n<ul class=\"icon-list-custom\" role=\"list\">\n    {% assign enabled_payment_types = 'visa,master, american_express,shopify_pay, paypal,apple_pay' | remove: ' ' | split: ',' %}\n    {% for type in enabled_payment_types %}\n        <li>{{ type | payment_type_svg_tag: class: 'icon-svg' }}</li>\n    {%- endfor -%}\n</ul>"
+          }
+        },
+        "liquid_3RzkHk": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div id=\"delivery-message\"\n     style=\"display: block; text-align: center; margin-top: -20px !important; font-size: 13px;\"\n     bis_skin_checked=\"1\">\n  ✔ 30-day money-back guarantee\n</div>"
+          }
+        },
+        "liquid_L7Lx37": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<div class=\"product-form__custom-liquid\"><div style=\"background-color: #ffeeee; border: 1px solid #FEC6C5; padding: 10px; margin-top: 0px; border-radius: 8px; text-align: center;\">\n    <h3 style=\"font-size: 16px; color: #B81D24; margin-bottom: 8px;\">\n        Limited Stock – Spring Sale !\n    </h3>\n    <p style=\"font-size: 13px; color: #444; line-height: 1.4; margin: 0;\">\n        Don't miss out! These are our largest discounts of the year, and supplies are running low. Once this stock is gone, it may take time to restock. Secure yours now while they last!\n\n    </p>\n</div></div>"
+          }
+        },
+        "liquid_j7pCUx": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"features-wrapper\">\n  <div class=\"features-container\">\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"Free Delivery Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Free delivery on all orders</p>\n        <p class=\"feature-subtitle\">Estimated within 5–7 days</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"Warranty Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Secure payment</p>\n        <p class=\"feature-subtitle\">via SSL and 3D Secure</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"Worry-Free Trial Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Hassle-free returns</p>\n        <p class=\"feature-subtitle\">30-day trial, no strings attached</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://www.svgrepo.com/download/87408/customer-service-headset.svg\" alt=\"After-Sale Service Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">UK-based customer service</p>\n        <p class=\"feature-subtitle\">Available seven days a week</p>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-wrapper {\n    display: flex;\n    justify-content: center;\n  }\n\n  .features-container {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px;\n    max-width: 600px; /* limite la largeur max */\n  }\n\n  .feature-item {\n    width: calc(50% - 10px);\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .icon-wrapper {\n    width: 40px;\n    height: 40px;\n    background-color: #F5F7F8;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n\n  .icon-wrapper img {\n    width: 22px;\n    height: 22px;\n    display: block;\n  }\n\n  .text-wrapper {\n    display: flex;\n    flex-direction: column;\n  }\n\n  .feature-title {\n    font-weight: 700;\n    color: #242424;\n    margin: 0;\n    font-size: 14px;\n  }\n\n  .feature-subtitle {\n    font-weight: 400;\n    color: #424242;\n    margin: 0;\n    font-size: 12px;\n  }\n\n  @media (max-width: 480px) {\n    .feature-item {\n      width: calc(50% - 10px);\n    }\n\n    .feature-title {\n      font-size: 12px;\n    }\n\n    .feature-subtitle {\n      font-size: 10px;\n    }\n\n    .icon-wrapper {\n      width: 36px;\n      height: 36px;\n    }\n\n    .icon-wrapper img {\n      width: 20px;\n      height: 20px;\n    }\n  }\n</style>"
+          }
+        },
+        "liquid_DHzzY3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"video-carousel-container\">\n  <h2 class=\"carousel-heading\">Your feedback matters to us ❤️ </h2>\n  <div class=\"video-carousel\">\n<div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/0ea4091c2041419d81dcfcc5e1cc998c.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n<div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/c022926cca0f47c995f443c6f0ec3077.mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n\n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/e7e498ae40b94b09aa527893474c11ac.mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n\n\n       \n\n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/be00b39ba6034b088b201f918110b373.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>    \n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/b60c6875d6c94e428c9c9cb2bf3e585c.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n  .video-carousel-container {\n    margin: 20px 0;\n    max-width: 600px;\n    letter-spacing: -0.3px;\n    text-align: center;\n  }\n\n  .carousel-heading {\n    font-size: 18px;\n    margin-bottom: 16px;\n    font-weight: 500;\n    letter-spacing: -0.3px;\n    text-align: center;\n  }\n\n  .video-carousel {\n    display: flex;\n    gap: 10px;\n    overflow-x: auto;\n    padding-bottom: 8px;\n    scrollbar-width: thin;\n    scrollbar-color: #C4C4C4 transparent;\n  }\n\n  .video-carousel::-webkit-scrollbar {\n    height: 4px;\n  }\n\n  .video-carousel::-webkit-scrollbar-track {\n    background: transparent;\n    border-radius: 3px;\n  }\n\n  .video-carousel::-webkit-scrollbar-thumb {\n    background: #C4C4C4;\n    border-radius: 2px;\n  }\n\n  .video-carousel::-webkit-scrollbar-thumb:hover {\n    background: #aaaaaa;\n  }\n\n  .video-item {\n    flex: 0 0 auto;\n    width: 132px;\n    position: relative;\n  }\n\n  .video-thumbnail {\n    position: relative;\n    border-radius: 6px;\n    overflow: hidden;\n    height: 235px;\n  }\n\n  .gradient-overlay {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 70px;\n    background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);\n    z-index: 2;\n    pointer-events: none;\n  }\n\n  .carousel-video {\n    width: 100%;\n    height: 100%;\n    display: block;\n    object-fit: cover;\n    background-color: #f0f0f0;\n  }\n\n  .play-button {\n    position: absolute;\n    bottom: 9px;\n    left: 9px;\n    z-index: 3;\n    background: none;\n    border: none;\n    padding: 0;\n    cursor: pointer;\n    transition: transform 0.1s ease;\n  }\n\n  .play-button:hover {\n    transform: scale(1.1);\n  }\n\n  .play-button:active {\n    transform: scale(0.95);\n  }\n\n  .play-button svg {\n    width: 24px;\n    height: 24px;\n    display: block;\n  }\n\n  @media screen and (max-width: 768px) {\n    .play-button svg {\n      width: 32px;\n      height: 32px;\n    }\n\n    .play-button {\n      bottom: 12px;\n      left: 12px;\n    }\n  }\n</style>\n\n<script>\n  document.addEventListener('DOMContentLoaded', function() {\n    const videoStates = new Map();\n\n    document.querySelectorAll('.carousel-video').forEach(video => {\n      video.addEventListener('loadeddata', function() {\n        if (video.currentTime === 0) {\n          video.currentTime = 0.1;\n        }\n      });\n\n      if (video.readyState === 0) {\n        video.load();\n      }\n    });\n\n    document.querySelectorAll('.video-item').forEach((item, index) => {\n      const video = item.querySelector('.carousel-video');\n      const playButton = item.querySelector('.play-button');\n      const thumbnail = item.querySelector('.video-thumbnail');\n\n      videoStates.set(video, { isPlaying: false, isProcessing: false });\n\n      function togglePlay(e) {\n        if (e) {\n          e.preventDefault();\n          e.stopPropagation();\n        }\n\n        const state = videoStates.get(video);\n\n        if (state.isProcessing) return;\n\n        state.isProcessing = true;\n\n        if (!state.isPlaying) {\n          document.querySelectorAll('.carousel-video').forEach(v => {\n            if (v !== video) {\n              const otherState = videoStates.get(v);\n              if (otherState && otherState.isPlaying) {\n                v.pause();\n                v.closest('.video-item').querySelector('.play-button').style.display = 'block';\n                otherState.isPlaying = false;\n              }\n            }\n          });\n\n          video.setAttribute('playsinline', '');\n\n          video.play().then(() => {\n            playButton.style.display = 'none';\n            state.isPlaying = true;\n          }).catch(error => {\n            setTimeout(() => {\n              video.play().then(() => {\n                playButton.style.display = 'none';\n                state.isPlaying = true;\n              }).catch(e => {\n                console.error(\"Video play error:\", e);\n              });\n            }, 100);\n          }).finally(() => {\n            state.isProcessing = false;\n          });\n        } else {\n          video.pause();\n          playButton.style.display = 'block';\n          state.isPlaying = false;\n          state.isProcessing = false;\n        }\n      }\n\n      playButton.addEventListener('click', togglePlay);\n\n      thumbnail.addEventListener('click', function(e) {\n        if (!e.target.closest('.play-button')) {\n          togglePlay(e);\n        }\n      });\n\n      video.addEventListener('ended', function() {\n        const state = videoStates.get(video);\n        playButton.style.display = 'block';\n        state.isPlaying = false;\n        video.currentTime = 0;\n      });\n    });\n\n    if (window.innerWidth > 768) {\n      document.addEventListener('mouseup', function(e) {\n      }, true);\n    }\n  });\n</script>"
+          }
+        },
+        "collapsible_text_Peg34C": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What is LUNIA?",
+            "content": "<p>Discover <strong>Lunia</strong>, the 2-in-1 shaver that revolutionises your beauty routine.</p><p>With its dual-head design, it combines precision and gentleness for silky-smooth skin on the go.</p><p><strong>Say goodbye to painful waxing, expensive laser treatments</strong> and disposable blades that irritate—Lunia delivers all the comfort without the usual suffering.</p><p>Waterproof and USB-C rechargeable, it works just as well on dry or wet skin. Perfect for sensitive skin, it soothes irritation, banishes ingrown hairs and prevents nicks. </p><p>Forget the fuss and say hello to a quick, convenient, pain-free solution for soft, impeccable skin every day!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_W8xGjJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "What’s included in the LUNIA pack?",
+            "content": "<p>Everything you need for a seamless experience:  </p><ul><li>Body trimming attachment – Quickly removes hair from larger areas. </li><li>Precision attachment – Ideal for delicate areas and a flawless finish</li><li>Attachment comb  </li><li>Charging cable  </li><li>Cleaning brush  </li><li> User manual  </li><li> Plus a complimentary exfoliating glove!  </li></ul><p>A simple, precise solution for perfectly groomed skin, from head to toe.<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_RerheQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Delivery & Returns",
+            "content": "<p><strong>Regions served</strong>: UK, United States, Canada, Australia and New Zealand only.</p><p><strong>Standard delivery</strong>: 5–7 working days (excluding weekends and UK bank holidays).</p><p><strong>Order tracking</strong>:  <br/>• Track your order on our website.  <br/>• Need your tracking number? Simply email us or complete our contact form, and we’ll be in touch promptly.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_7bMTqx": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Secure payment",
+            "content": "<p><strong>We accept</strong>: Visa, MasterCard, American Express, PayPal and Apple Pay.</p><p>All transactions are protected by end-to-end SSL encryption and undergo rigorous fraud prevention checks.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_xUmMU9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "30-day money-back guarantee",
+            "content": "<p><strong>30-day “Satisfaction guaranteed or your money back”</strong></p><p>If you’re not completely happy with your purchase, you may request a full refund within 30 days.</p><p><strong>Free replacement for manufacturing defects</strong></p><p>If the product is faulty, we’ll replace it at no extra cost.</p><p><strong>Dedicated support</strong></p><p>For any questions or issues, our customer service team is at your disposal by email or via our contact form.</p><p><strong>Returns</strong></p><p><strong>Return window:</strong>30 days from receipt<br/>You may return the product within 30 days, provided it’s in its original condition.</p><p><strong>Easy process</strong></p><p>Contact us by email or through our contact form, and we’ll guide you step by step.</p><p><strong>Packaging & condition</strong></p><p>The item must be in its original condition and, if possible, in its original packaging.</p><p><strong>Return shipping costs</strong></p><p>If the return is due to a defect or our error, we’ll cover the return postage. Otherwise, the customer may be responsible (see our Returns Policy).</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_aK9Uim",
+        "liquid_JTAzxz",
+        "liquid_RRCgTd",
+        "separator_X6ReUH",
+        "price_nDhBxz",
+        "text_qxWVME",
+        "image_wJjyiE",
+        "gsc_countdown_timer_countdown_L9bdb7",
+        "buy_buttons_aqmFWz",
+        "liquid_4iWCJ3",
+        "liquid_3RzkHk",
+        "liquid_L7Lx37",
+        "liquid_j7pCUx",
+        "liquid_DHzzY3",
+        "collapsible_text_Peg34C",
+        "collapsible_text_W8xGjJ",
+        "collapsible_text_RerheQ",
+        "collapsible_text_7bMTqx",
+        "collapsible_text_xUmMU9"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "lunia®-razor-free-exfoliating-glove",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "testimonial_footer_eGDbaY": {
       "type": "testimonial-footer",
       "blocks": {
@@ -687,198 +872,6 @@
         "border_thickness": 0
       }
     },
-    "featured_product_Lj6Uca": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_aK9Uim": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .lunia-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 24px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"lunia-offre--flush\">\n  Lunia® Shaver + Free Exfoliating Glove\n</p>"
-          }
-        },
-        "liquid_JTAzxz": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_KmGWH6\" data-block-type=\"liquid\">\n  <div class=\"product-info__liquid\">\n    <a href=\"#shopify-section-template--24726736666958__custom_liquid_8QMgbq\" style=\"text-decoration: none;\">\n      <div style=\"display: flex; align-items: center; border-radius: 8px; font-family: 'Poppins', sans-serif; width: fit-content; margin: 10px 0; text-align: left;\">\n        <!-- Étoiles -->\n        <img src=\"https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-5.svg\" alt=\"5 étoiles\" style=\"width: 100px; margin-right: 10px;\">\n        <!-- Texte -->\n        <div style=\"color: #000000; font-size: 14px; font-weight: 500;\">\n          <span style=\"font-weight: 700;\">4.8/5</span> out of <span style=\"font-weight: 700;\">1832 verified reviews&nbsp;</span>\n        </div>\n      </div>\n    </a>\n  </div>\n</div>"
-          }
-        },
-        "liquid_RRCgTd": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_jnATdX\" data-block-type=\"liquid\"><div class=\"product-info__liquid\">\n              <style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">●</div>\n  <div class=\"text\">Less than 10 left in stock</div>\n</div>\n            </div></div>"
-          }
-        },
-        "separator_X6ReUH": {
-          "type": "separator",
-          "settings": {}
-        },
-        "price_nDhBxz": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "text_qxWVME": {
-          "type": "text",
-          "settings": {
-            "text": "<p>- Removes hair pain-free at the root</p><p>- Helps <strong>prevent</strong> ingrown hairs and irritation</p><p>- Suitable for use on <strong>all areas</strong> of the body</p><p>- <strong>Smooths</strong> and <strong>softens</strong> skin (use the glove before each shave)</p><p>Treat your skin well, <strong>shop now</strong></p>"
-          }
-        },
-        "image_wJjyiE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_21_03_23.png",
-            "alignment": "center",
-            "max_width": 500
-          }
-        },
-        "gsc_countdown_timer_countdown_L9bdb7": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": "GSC-SMALL-CluRLkQRuspM"
-          }
-        },
-        "buy_buttons_aqmFWz": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "#47b700",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "liquid_4iWCJ3": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<style>\n.icon-list-custom {\n    display: flex;\n    flex-wrap: wrap;\n    list-style: none;\n    justify-content: center;\n    margin: 0;\n    gap: 8px;\n    padding: 0;\n    margin-top: -0.5rem;\n    margin-bottom: -0.5rem;\n}\n</style>\n\n<ul class=\"icon-list-custom\" role=\"list\">\n    {% assign enabled_payment_types = 'visa,master, american_express,shopify_pay, paypal,apple_pay' | remove: ' ' | split: ',' %}\n    {% for type in enabled_payment_types %}\n        <li>{{ type | payment_type_svg_tag: class: 'icon-svg' }}</li>\n    {%- endfor -%}\n</ul>"
-          }
-        },
-        "liquid_3RzkHk": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div id=\"delivery-message\"\n     style=\"display: block; text-align: center; margin-top: -20px !important; font-size: 13px;\"\n     bis_skin_checked=\"1\">\n  ✔ 30-day money-back guarantee\n</div>"
-          }
-        },
-        "liquid_L7Lx37": {
-          "type": "liquid",
-          "disabled": true,
-          "settings": {
-            "liquid": "<div class=\"product-form__custom-liquid\"><div style=\"background-color: #ffeeee; border: 1px solid #FEC6C5; padding: 10px; margin-top: 0px; border-radius: 8px; text-align: center;\">\n    <h3 style=\"font-size: 16px; color: #B81D24; margin-bottom: 8px;\">\n        Limited Stock – Spring Sale !\n    </h3>\n    <p style=\"font-size: 13px; color: #444; line-height: 1.4; margin: 0;\">\n        Don't miss out! These are our largest discounts of the year, and supplies are running low. Once this stock is gone, it may take time to restock. Secure yours now while they last!\n\n    </p>\n</div></div>"
-          }
-        },
-        "liquid_j7pCUx": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"features-wrapper\">\n  <div class=\"features-container\">\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-SHIPPING1.svg?v=1744585896\" alt=\"Free Delivery Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Free delivery on all orders</p>\n        <p class=\"feature-subtitle\">Estimated within 5–7 days</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-check-shield.svg?v=1744586491\" alt=\"Warranty Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Secure payment</p>\n        <p class=\"feature-subtitle\">via SSL and 3D Secure</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0891/4871/9429/files/NOUVEAU-RETOUR.svg?v=1744585755\" alt=\"Worry-Free Trial Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">Hassle-free returns</p>\n        <p class=\"feature-subtitle\">30-day trial, no strings attached</p>\n      </div>\n    </div>\n\n    <div class=\"feature-item\">\n      <div class=\"icon-wrapper\">\n        <img src=\"https://www.svgrepo.com/download/87408/customer-service-headset.svg\" alt=\"After-Sale Service Icon\">\n      </div>\n      <div class=\"text-wrapper\">\n        <p class=\"feature-title\">UK-based customer service</p>\n        <p class=\"feature-subtitle\">Available seven days a week</p>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n  .features-wrapper {\n    display: flex;\n    justify-content: center;\n  }\n\n  .features-container {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 20px;\n    max-width: 600px; /* limite la largeur max */\n  }\n\n  .feature-item {\n    width: calc(50% - 10px);\n    display: flex;\n    align-items: center;\n    gap: 10px;\n  }\n\n  .icon-wrapper {\n    width: 40px;\n    height: 40px;\n    background-color: #F5F7F8;\n    border-radius: 50%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    flex-shrink: 0;\n  }\n\n  .icon-wrapper img {\n    width: 22px;\n    height: 22px;\n    display: block;\n  }\n\n  .text-wrapper {\n    display: flex;\n    flex-direction: column;\n  }\n\n  .feature-title {\n    font-weight: 700;\n    color: #242424;\n    margin: 0;\n    font-size: 14px;\n  }\n\n  .feature-subtitle {\n    font-weight: 400;\n    color: #424242;\n    margin: 0;\n    font-size: 12px;\n  }\n\n  @media (max-width: 480px) {\n    .feature-item {\n      width: calc(50% - 10px);\n    }\n\n    .feature-title {\n      font-size: 12px;\n    }\n\n    .feature-subtitle {\n      font-size: 10px;\n    }\n\n    .icon-wrapper {\n      width: 36px;\n      height: 36px;\n    }\n\n    .icon-wrapper img {\n      width: 20px;\n      height: 20px;\n    }\n  }\n</style>"
-          }
-        },
-        "liquid_DHzzY3": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"video-carousel-container\">\n  <h2 class=\"carousel-heading\">Your feedback matters to us ❤️ </h2>\n  <div class=\"video-carousel\">\n<div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/0ea4091c2041419d81dcfcc5e1cc998c.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n<div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/c022926cca0f47c995f443c6f0ec3077.mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n\n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/e7e498ae40b94b09aa527893474c11ac.mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n\n\n       \n\n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/be00b39ba6034b088b201f918110b373.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>    \n\n    <div class=\"video-item\">\n      <div class=\"video-thumbnail\">\n        <div class=\"gradient-overlay\"></div>\n        <video class=\"carousel-video\" preload=\"metadata\" playsinline>\n          <source src=\"\" type=\"video/quicktime\">\n          <source src=\"https://cdn.shopify.com/videos/c/o/v/b60c6875d6c94e428c9c9cb2bf3e585c.mp4\" type=\"video/mp4\">\n          Your browser does not support the video tag.\n        </video>\n        <button type=\"button\" class=\"play-button\" aria-label=\"Play video\">\n          <svg viewBox=\"0 0 24 24\" width=\"24\" height=\"24\">\n            <circle cx=\"12\" cy=\"12\" r=\"12\" fill=\"#FEC6C5\"/>\n            <polygon points=\"10,8 16,12 10,16\" fill=\"#1D201D\"/>\n          </svg>\n        </button>\n      </div>\n    </div>\n  </div>\n</div>\n\n<style>\n  .video-carousel-container {\n    margin: 20px 0;\n    max-width: 600px;\n    letter-spacing: -0.3px;\n    text-align: center;\n  }\n\n  .carousel-heading {\n    font-size: 18px;\n    margin-bottom: 16px;\n    font-weight: 500;\n    letter-spacing: -0.3px;\n    text-align: center;\n  }\n\n  .video-carousel {\n    display: flex;\n    gap: 10px;\n    overflow-x: auto;\n    padding-bottom: 8px;\n    scrollbar-width: thin;\n    scrollbar-color: #C4C4C4 transparent;\n  }\n\n  .video-carousel::-webkit-scrollbar {\n    height: 4px;\n  }\n\n  .video-carousel::-webkit-scrollbar-track {\n    background: transparent;\n    border-radius: 3px;\n  }\n\n  .video-carousel::-webkit-scrollbar-thumb {\n    background: #C4C4C4;\n    border-radius: 2px;\n  }\n\n  .video-carousel::-webkit-scrollbar-thumb:hover {\n    background: #aaaaaa;\n  }\n\n  .video-item {\n    flex: 0 0 auto;\n    width: 132px;\n    position: relative;\n  }\n\n  .video-thumbnail {\n    position: relative;\n    border-radius: 6px;\n    overflow: hidden;\n    height: 235px;\n  }\n\n  .gradient-overlay {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 70px;\n    background: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);\n    z-index: 2;\n    pointer-events: none;\n  }\n\n  .carousel-video {\n    width: 100%;\n    height: 100%;\n    display: block;\n    object-fit: cover;\n    background-color: #f0f0f0;\n  }\n\n  .play-button {\n    position: absolute;\n    bottom: 9px;\n    left: 9px;\n    z-index: 3;\n    background: none;\n    border: none;\n    padding: 0;\n    cursor: pointer;\n    transition: transform 0.1s ease;\n  }\n\n  .play-button:hover {\n    transform: scale(1.1);\n  }\n\n  .play-button:active {\n    transform: scale(0.95);\n  }\n\n  .play-button svg {\n    width: 24px;\n    height: 24px;\n    display: block;\n  }\n\n  @media screen and (max-width: 768px) {\n    .play-button svg {\n      width: 32px;\n      height: 32px;\n    }\n\n    .play-button {\n      bottom: 12px;\n      left: 12px;\n    }\n  }\n</style>\n\n<script>\n  document.addEventListener('DOMContentLoaded', function() {\n    const videoStates = new Map();\n\n    document.querySelectorAll('.carousel-video').forEach(video => {\n      video.addEventListener('loadeddata', function() {\n        if (video.currentTime === 0) {\n          video.currentTime = 0.1;\n        }\n      });\n\n      if (video.readyState === 0) {\n        video.load();\n      }\n    });\n\n    document.querySelectorAll('.video-item').forEach((item, index) => {\n      const video = item.querySelector('.carousel-video');\n      const playButton = item.querySelector('.play-button');\n      const thumbnail = item.querySelector('.video-thumbnail');\n\n      videoStates.set(video, { isPlaying: false, isProcessing: false });\n\n      function togglePlay(e) {\n        if (e) {\n          e.preventDefault();\n          e.stopPropagation();\n        }\n\n        const state = videoStates.get(video);\n\n        if (state.isProcessing) return;\n\n        state.isProcessing = true;\n\n        if (!state.isPlaying) {\n          document.querySelectorAll('.carousel-video').forEach(v => {\n            if (v !== video) {\n              const otherState = videoStates.get(v);\n              if (otherState && otherState.isPlaying) {\n                v.pause();\n                v.closest('.video-item').querySelector('.play-button').style.display = 'block';\n                otherState.isPlaying = false;\n              }\n            }\n          });\n\n          video.setAttribute('playsinline', '');\n\n          video.play().then(() => {\n            playButton.style.display = 'none';\n            state.isPlaying = true;\n          }).catch(error => {\n            setTimeout(() => {\n              video.play().then(() => {\n                playButton.style.display = 'none';\n                state.isPlaying = true;\n              }).catch(e => {\n                console.error(\"Video play error:\", e);\n              });\n            }, 100);\n          }).finally(() => {\n            state.isProcessing = false;\n          });\n        } else {\n          video.pause();\n          playButton.style.display = 'block';\n          state.isPlaying = false;\n          state.isProcessing = false;\n        }\n      }\n\n      playButton.addEventListener('click', togglePlay);\n\n      thumbnail.addEventListener('click', function(e) {\n        if (!e.target.closest('.play-button')) {\n          togglePlay(e);\n        }\n      });\n\n      video.addEventListener('ended', function() {\n        const state = videoStates.get(video);\n        playButton.style.display = 'block';\n        state.isPlaying = false;\n        video.currentTime = 0;\n      });\n    });\n\n    if (window.innerWidth > 768) {\n      document.addEventListener('mouseup', function(e) {\n      }, true);\n    }\n  });\n</script>"
-          }
-        },
-        "text_VBMBdg": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Need help or have a question about the shaver?</strong><br/>Contact our advisor Lina by message at</p><p>+44 7447 303701.</p><p></p><p><strong>Lina’s availability:</strong><br/>Monday–Friday: 9:00 am–6:00 pm GMT<br/><br/>Saturday: 10:00 am–4:00 pm GMT<br/><br/>Sunday: Closed</p>"
-          }
-        },
-        "collapsible_text_Peg34C": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "What is LUNIA?",
-            "content": "<p>Discover <strong>Lunia</strong>, the 2-in-1 shaver that revolutionises your beauty routine.</p><p>With its dual-head design, it combines precision and gentleness for silky-smooth skin on the go.</p><p><strong>Say goodbye to painful waxing, expensive laser treatments</strong> and disposable blades that irritate—Lunia delivers all the comfort without the usual suffering.</p><p>Waterproof and USB-C rechargeable, it works just as well on dry or wet skin. Perfect for sensitive skin, it soothes irritation, banishes ingrown hairs and prevents nicks. </p><p>Forget the fuss and say hello to a quick, convenient, pain-free solution for soft, impeccable skin every day!</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_W8xGjJ": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "What’s included in the LUNIA pack?",
-            "content": "<p>Everything you need for a seamless experience:  </p><ul><li>Body trimming attachment – Quickly removes hair from larger areas. </li><li>Precision attachment – Ideal for delicate areas and a flawless finish</li><li>Attachment comb  </li><li>Charging cable  </li><li>Cleaning brush  </li><li> User manual  </li><li> Plus a complimentary exfoliating glove!  </li></ul><p>A simple, precise solution for perfectly groomed skin, from head to toe.<br/></p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_RerheQ": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Delivery & Returns",
-            "content": "<p><strong>Regions served</strong>: UK, United States, Canada, Australia and New Zealand only.</p><p><strong>Standard delivery</strong>: 5–7 working days (excluding weekends and UK bank holidays).</p><p><strong>Order tracking</strong>:  <br/>• Track your order on our website.  <br/>• Need your tracking number? Simply email us or complete our contact form, and we’ll be in touch promptly.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_7bMTqx": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "Secure payment",
-            "content": "<p><strong>We accept</strong>: Visa, MasterCard, American Express, PayPal and Apple Pay.</p><p>All transactions are protected by end-to-end SSL encryption and undergo rigorous fraud prevention checks.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_text_xUmMU9": {
-          "type": "collapsible_text",
-          "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "title": "30-day money-back guarantee",
-            "content": "<p><strong>30-day “Satisfaction guaranteed or your money back”</strong></p><p>If you’re not completely happy with your purchase, you may request a full refund within 30 days.</p><p><strong>Free replacement for manufacturing defects</strong></p><p>If the product is faulty, we’ll replace it at no extra cost.</p><p><strong>Dedicated support</strong></p><p>For any questions or issues, our customer service team is at your disposal by email or via our contact form.</p><p><strong>Returns</strong></p><p><strong>Return window:</strong>30 days from receipt<br/>You may return the product within 30 days, provided it’s in its original condition.</p><p><strong>Easy process</strong></p><p>Contact us by email or through our contact form, and we’ll guide you step by step.</p><p><strong>Packaging & condition</strong></p><p>The item must be in its original condition and, if possible, in its original packaging.</p><p><strong>Return shipping costs</strong></p><p>If the return is due to a defect or our error, we’ll cover the return postage. Otherwise, the customer may be responsible (see our Returns Policy).</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "liquid_aK9Uim",
-        "liquid_JTAzxz",
-        "liquid_RRCgTd",
-        "separator_X6ReUH",
-        "price_nDhBxz",
-        "text_qxWVME",
-        "image_wJjyiE",
-        "gsc_countdown_timer_countdown_L9bdb7",
-        "buy_buttons_aqmFWz",
-        "liquid_4iWCJ3",
-        "liquid_3RzkHk",
-        "liquid_L7Lx37",
-        "liquid_j7pCUx",
-        "liquid_DHzzY3",
-        "text_VBMBdg",
-        "collapsible_text_Peg34C",
-        "collapsible_text_W8xGjJ",
-        "collapsible_text_RerheQ",
-        "collapsible_text_7bMTqx",
-        "collapsible_text_xUmMU9"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "full_width": true,
-        "product": "lunia®-razor-free-exfoliating-glove",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "thumbnails",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -1061,8 +1054,8 @@
     "image_with_text_overlay_edirNi",
     "custom_liquid_jpreN9",
     "multi_column_3HbHNC",
-    "testimonial_footer_eGDbaY",
     "featured_product_Lj6Uca",
+    "testimonial_footer_eGDbaY",
     "faq",
     "text_with_icons_jxQ7dK"
   ]
