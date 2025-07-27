@@ -28,7 +28,7 @@
           "type": "text",
           "settings": {
             "title": "Need help?",
-            "content": "<p>Contact us via the form on our Contact page, by email at <a>contact@shop-lunia.com</a>, or by message at +44 7447 303701.</p><p><br/><strong>Opening hours (UK Time):</strong><br/><br/>Mon–Fri: 9 am–12 pm & 2 pm–6 pm <br/><br/>Sat & Sun: 10 am–12 pm</p>",
+            "content": "<p>Contact us via the form on our Contact page, by email at <a>contact@shop-lunia.com</a>.</p><p><br/><strong>Opening hours (UK Time):</strong><br/><br/>Mon–Fri: 9 am–12 pm & 2 pm–6 pm <br/><br/>Sat & Sun: 10 am–12 pm</p>",
             "enable_follow_on_shop": false
           }
         },
