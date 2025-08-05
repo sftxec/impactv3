@@ -311,7 +311,7 @@
         "liquid_aK9Uim": {
           "type": "liquid",
           "settings": {
-            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .lunia-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 24px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"lunia-offre--flush\">\n  Lunia® Shaver + Free Exfoliating Glove\n</p>"
+            "liquid": "{% comment %} Ajoute ce bloc dans ton template Liquid là où tu veux afficher le texte {% endcomment %}\n<style>\n  .lunia-offre--flush {\n    margin-bottom: -16px !important;\n    padding: 0 !important;\n    font-size: 24px !important;\n    line-height: 1.3 !important;\n    font-weight: bold !important;\n  }\n</style>\n\n<p class=\"lunia-offre--flush\">\n  Lunia® Shaver\n</p>"
           }
         },
         "liquid_JTAzxz": {
