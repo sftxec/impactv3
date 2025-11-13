@@ -330,6 +330,12 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_nLnghD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section style=\"display:flex; flex-direction:column; align-items:flex-start; gap:15px; max-width:700px; margin:auto;\">\n\n  <div style=\"display:flex; align-items:center; gap:10px; max-width:600px;\">\n    <div style=\"display:flex; align-items:center; justify-content:center; width:20px; height:20px; flex-shrink:0;\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%; height:100%;\">\n        <path d=\"M10 0C4.47688 0 0 4.47688 0 10C0 15.5231 4.47688 20 10 20C15.5231 20 20 15.5231 20 10C20 4.47688 15.5231 0 10 0ZM14.3163 5.56625L15.6837 6.81625L8.18375 15.1169L4.31625 11.2494L5.625 9.94062L8.06625 12.3819L14.3163 5.56562V5.56625Z\" fill=\"black\"/>\n      </svg>\n    </div>\n    <p>No more cuts or redness — say goodbye to irritation from disposable razors.</p>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:10px; max-width:600px;\">\n    <div style=\"display:flex; align-items:center; justify-content:center; width:20px; height:20px; flex-shrink:0;\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%; height:100%;\">\n        <path d=\"M10 0C4.47688 0 0 4.47688 0 10C0 15.5231 4.47688 20 10 20C15.5231 20 20 15.5231 20 10C20 4.47688 15.5231 0 10 0ZM14.3163 5.56625L15.6837 6.81625L8.18375 15.1169L4.31625 11.2494L5.625 9.94062L8.06625 12.3819L14.3163 5.56562V5.56625Z\" fill=\"black\"/>\n      </svg>\n    </div>\n    <p>Farewell ingrown hairs and strawberry skin — specially designed for the bikini line and sensitive areas.</p>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:10px; max-width:600px;\">\n    <div style=\"display:flex; align-items:center; justify-content:center; width:20px; height:20px; flex-shrink:0;\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%; height:100%;\">\n        <path d=\"M10 0C4.47688 0 0 4.47688 0 10C0 15.5231 4.47688 20 10 20C15.5231 20 20 15.5231 20 10C20 4.47688 15.5231 0 10 0ZM14.3163 5.56625L15.6837 6.81625L8.18375 15.1169L4.31625 11.2494L5.625 9.94062L8.06625 12.3819L14.3163 5.56562V5.56625Z\" fill=\"black\"/>\n      </svg>\n    </div>\n    <p>Slower regrowth — enjoy several days of smoothness without touching up.</p>\n  </div>\n\n  <!-- Nouveau 4e avec check -->\n  <div style=\"display:flex; align-items:center; gap:10px; max-width:600px;\">\n    <div style=\"display:flex; align-items:center; justify-content:center; width:20px; height:20px; flex-shrink:0;\">\n      <svg viewBox=\"0 0 20 20\" xmlns=\"http://www.w3.org/2000/svg\" style=\"width:100%; height:100%;\">\n        <path d=\"M10 0C4.47688 0 0 4.47688 0 10C0 15.5231 4.47688 20 10 20C15.5231 20 20 15.5231 20 10C20 4.47688 15.5231 0 10 0ZM14.3163 5.56625L15.6837 6.81625L8.18375 15.1169L4.31625 11.2494L5.625 9.94062L8.06625 12.3819L14.3163 5.56562V5.56625Z\" fill=\"black\"/>\n      </svg>\n    </div>\n    <p>Suitable for all skin types — even the most sensitive.</p>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:10px; max-width:600px;\">\n    <p>Join the thousands of women who’ve already transformed their shaving routine today!</p>\n  </div>\n\n</section>"
+          }
+        },
         "kaching_bundles_app_block_NhJKbT": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
@@ -338,6 +344,7 @@
         },
         "text_qxWVME": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>- Removes hair pain-free at the root</p><p>- Helps <strong>prevent</strong> ingrown hairs and irritation</p><p>- <strong>Smooths</strong> and <strong>softens</strong> skin (use the glove before each shave)</p><p>Treat your skin well, <strong>shop now</strong></p>"
           }
@@ -345,7 +352,7 @@
         "image_wJjyiE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juin_2025_21_03_23.png",
+            "image": "shopify://shop_images/Copie_de_1_Guante_exfoliante_adicional_gratis_por_cada_Kit_comprado.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -455,6 +462,7 @@
         "liquid_JTAzxz",
         "liquid_RRCgTd",
         "separator_X6ReUH",
+        "liquid_nLnghD",
         "kaching_bundles_app_block_NhJKbT",
         "text_qxWVME",
         "image_wJjyiE",
