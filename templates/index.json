@@ -148,6 +148,19 @@
     "multi_column_3HbHNC": {
       "type": "multi-column",
       "blocks": {
+        "item_MJaUAQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Group_193.png",
+            "column_size": "3",
+            "title": "Celia C.",
+            "heading_tag": "h4",
+            "content": "<p>\"I’ve always had really sensitive skin in that area, plagued by ingrown hairs and nicks… but this is gentle, leaves my skin smooth, and causes absolutely no reaction.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_aQgAcr": {
           "type": "item",
           "settings": {
@@ -213,19 +226,6 @@
             "link_style": "link"
           }
         },
-        "item_MJaUAQ": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Group_193.png",
-            "column_size": "3",
-            "title": "Celia C.",
-            "heading_tag": "h4",
-            "content": "<p>\"I’ve always had really sensitive skin in that area, plagued by ingrown hairs and nicks… but this is gentle, leaves my skin smooth, and causes absolutely no reaction.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_y8EUAR": {
           "type": "item",
           "settings": {
@@ -280,12 +280,12 @@
         }
       },
       "block_order": [
+        "item_MJaUAQ",
         "item_aQgAcr",
         "item_bFXq9p",
         "item_EbUPNr",
         "item_HVkqea",
         "item_HpBWQ7",
-        "item_MJaUAQ",
         "item_y8EUAR",
         "item_AbdMYH",
         "item_cQkTGU",
