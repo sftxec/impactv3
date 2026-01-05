@@ -50,7 +50,7 @@
         "message_Ci7PgM"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "autoplay": true,
         "cycle_speed": 4,
         "text_size": "text-xs",
